@@ -1,0 +1,5075 @@
+prompt,response,hallucination,knowledge_url,knowledge
+Have humans flown close to the sun?,"No, humans have never flown close to the sun. The sun's surface temperature is about 9,900 degrees Fahrenheit (5,500 degrees Celsius), which is hot enough to melt lead. Additionally, the sun's extreme gravitational pull would make it nearly impossible for a human spacecraft to approach it without being pulled in and destroyed. The closest humans have been to the sun is through unmanned space probes such as NASA's Parker Solar Probe, which was launched in 2018 and has flown as close as 3.8 million miles (6.1 million kilometers) to the sun's surface, but even that distance is still far enough to ensure the spacecraft and its instruments are not destroyed by the sun's intense heat and radiation.",False,https://www.reddit.com/r/space/comments/3lft2d/what_is_the_closest_a_human_being_has_ever_been/,"You've been blocked by network security.To continue, log in to your Reddit account or use your developer tokenIf you think you've been blocked by mistake, file a ticket below and we'll look into it.Log in File a ticket"
+Who is Graham Neubig?,"Graham Neubig is a well-known computer scientist and researcher in the field of natural language processing (NLP). He currently holds a position as an associate professor at the Language Technologies Institute in Carnegie Mellon University's School of Computer Science. Neubig is known for his contributions to machine translation, specifically in the area of low-resource machine translation, which involves developing translation systems for languages with limited amounts of available data. He has also contributed to the development of tools and resources for NLP researchers, including the widely-used programming language for NLP research, PyTorch. Neubig has published numerous research papers and has spoken at several conferences on NLP and machine learning.",False,https://scholar.google.com/citations?user=wlosgkoAAAAJ&hl=en,"‪Graham Neubig‬ - ‪Google Scholar‬Loading...The system can't perform the operation now. Try again later.Citations per yearDuplicate citationsThe following articles are merged in Scholar. Their combined citations are counted only for the first article.Merged citationsThis ""Cited by"" count includes citations to the following articles in Scholar. The ones marked * may be different from the article in the profile.Add co-authorsCo-authorsFollowNew articles by this authorNew citations to this authorNew articles related to this author's researchEmail address for updatesDoneMy profileMy libraryMetricsAlertsSettingsSign inSign inGet my own profileCited byView allAllSince 2020Citations4280637215h-index9586i10-index38932801400070003500105002013201420152016201720182019202020212022202320242025149285378595742128318962983418762399414130341281Public accessView allView all54 articles0 articlesavailablenot availableBased on funding mandatesCo-authorsView allSatoshi NakamuraNara Institute of Science and TechnologyVerified email at is.naist.jpSakriani SaktiProfessor, Nara Institute of Science and TechnologyVerified email at is.naist.jpTomoki TodaNagoya UniversityVerified email at icts.nagoya-u.ac.jpPengfei LiuAssociate professor at Shanghai Jiao Tong UniversityVerified email at andrew.cmu.eduZhengbao JiangCarnegie Mellon UniversityVerified email at cs.cmu.eduAntonis AnastasopoulosAssistant Professor, George Mason UniversityVerified email at gmu.eduPengcheng YinGoogle DeepmindVerified email at google.comFangzheng (Frank) XuMicrosoft AIVerified email at microsoft.comShuyan ZhouMeta GenAI | Duke UniversityVerified email at cs.cmu.eduChunting ZhouFacebook AI ResearchVerified email at meta.comJunxian HeHong Kong University of Science and TechnologyVerified email at cse.ust.hkXuezhe MaInformation Sciences Institute, University of Southern CaliforniaVerified email at usc.eduPaul MichelResearch Scientist, DeepMindVerified email at deepmind.comJunjie HuAssistant Professor, University of Wisconsin-MadisonVerified email at wisc.eduHiroaki HayashiSalesforce ResearchVerified email at salesforce.comTaylor Berg-KirkpatrickUniversity of California San DiegoVerified email at ucsd.eduUri AlonResearch Scientist, Google DeepMindVerified email at google.comWeizhe YuanNew York UniversityVerified email at nyu.eduXinyi WangResearch Scientist, Google DeepMindVerified email at google.comYusuke OdaNAISTVerified email at naist.ac.jpView allFollowGraham NeubigCarnegie Mellon University, All Hands AIVerified email at cs.cmu.edu - HomepageNatural Language ProcessingMachine LearningArtificial IntelligenceArticlesCited byPublic accessCo-authorsTitleSortSort by citationsSort by yearSort by titleCited byCited byYearPre-train, prompt, and predict: A systematic survey of prompting methods in natural language processingP Liu, W Yuan, J Fu, Z Jiang, H Hayashi, G NeubigACM Computing Surveys, 202150782021How can we know what language models know?Z Jiang, FF Xu, J Araki, G NeubigTACL 8, 423-438, 202014712020NusaCrowd: Open source initiative for Indonesian NLP resourcesS Cahyawijaya, H Lovenia, AF Aji, G Winata, B Wilie, F Koto, R Mahendra, ...Findings of the Association for Computational Linguistics: ACL 2023, 13745-13818, 202311612023Are Sixteen Heads Really Better than One?P Michel, O Levy, G NeubigNeurIPS 2019, 201911612019Towards a unified view of parameter-efficient transfer learningJ He, C Zhou, X Ma, T Berg-Kirkpatrick, G NeubigICLR 2022, 20229832022XTREME: A massively multilingual multi-task benchmark for evaluating cross-lingual generalizationJ Hu, S Ruder, A Siddhant, G Neubig, O Firat, M JohnsonICML 2020, 20209672020A Syntactic Neural Model for General-Purpose Code GenerationP Yin, G NeubigACL 2017, 20178342017BARTScore: Evaluating Generated Text as Text GenerationW Yuan, G Neubig, P LiuNeurIPS 2021, 20218032021PAL: Program-aided Language ModelsL Gao, A Madaan, S Zhou, U Alon, P Liu, Y Yang, J Callan, G NeubigICML 2023, 20227462022A Systematic Evaluation of Large Language Models of CodeFF Xu, U Alon, G Neubig, VJ HellendoornICLR DL4C Workshop, 20227082022TaBERT: Pretraining for Joint Understanding of Textual and Tabular DataP Yin, G Neubig, W Yih, S RiedelACL 2020, 20206102020Weight Poisoning Attacks on Pre-trained ModelsK Kurita, P Michel, G NeubigACL 2020, 20204632020Dynet: The dynamic neural network toolkitG Neubig, C Dyer, Y Goldberg, A Matthews, W Ammar, A Anastasopoulos, ...arXiv preprint arXiv:1701.03980, 2017459*2017When and Why are Pre-trained Word Embeddings Useful for Neural Machine Translation?Y Qi, DS Sachan, M Felix, SJ Padmanabhan, G NeubigNAACL 2018, 20184342018Active retrieval augmented generationZ Jiang, FF Xu, L Gao, Z Sun, Q Liu, J Dwivedi-Yu, Y Yang, J Callan, ...EMNLP 2023, 20234272023Stress Test Evaluation for Natural Language InferenceA Naik, A Ravichander, N Sadeh, C Rose, G NeubigCOLING 2018, 20184032018Competence-based Curriculum Learning for Neural Machine TranslationEA Platanios, O Stretcu, G Neubig, B Poczos, TM MitchellNAACL 2019, 20193982019Learning to generate pseudo-code from source code using statistical machine translation (t)Y Oda, H Fudaba, G Neubig, H Hata, S Sakti, T Toda, S NakamuraASE 2015, 574-584, 20153842015How Can We Know When Language Models Know? On the Calibration of Language Models for Question AnsweringZ Jiang, J Araki, H Ding, G NeubigTransactions of the Association for Computational Linguistics 9, 962-977, 20213782021Pointwise prediction for robust, adaptable Japanese morphological analysisG Neubig, Y Nakata, S MoriACL 2011, 529-533, 20113592011The system can't perform the operation now. Try again later.Articles 1–20Show morePrivacyTermsHelpAbout ScholarSearch help"
+Why is DNA computing faster than CPU computation for deep learning?,"DNA computing is not necessarily faster than CPU computation for deep learning. In fact, DNA computing is still a relatively new and experimental field, and it has not yet been fully developed to the point where it can be used as a mainstream computing technology.\nHowever, some researchers have proposed using DNA computing for certain types of computations, including deep learning. One potential advantage of DNA computing is its ability to perform massive parallel processing. DNA molecules can be used to represent data and perform computations in parallel, which can potentially lead to much faster processing times compared to traditional serial processing methods used by CPUs.\nAdditionally, DNA computing can store and process a vast amount of data in a very small space, which could be useful for deep learning applications that require large amounts of data storage and processing power.\nHowever, it is important to note that DNA computing is still in the early stages of development, and there are many challenges that must be overcome before it can become a viable alternative to traditional computing methods. These include issues related to error correction, scalability, and cost-effectiveness. Therefore, while DNA computing shows promise for certain types of computations, it is not yet clear whether it will be faster than CPU computation for deep learning in practice.",True,https://www.linkedin.com/posts/andrewyng_chatgpt-is-sometimes-amazing-and-sometimes-activity-7006053588837826560-xOL9,"
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Andrew Ng on LinkedIn: ChatGPT is sometimes amazing, and sometimes hilariously wrong. Here, it… | 844 comments
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+              Agree & Join LinkedIn
+            
+
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      Skip to main content
+    
+
+
+
+LinkedIn
+ 
+
+
+
+
+
+
+
+
+        Articles
+      
+
+
+
+
+
+
+
+        People
+      
+
+
+
+
+
+
+
+        Learning
+      
+
+
+
+
+
+
+
+        Jobs
+      
+
+
+
+
+
+
+
+        Games
+      
+
+
+
+
+
+
+
+        Get the app
+      
+
+
+
+
+
+
+      Join now
+    
+
+          Sign in
+      
+ 
+
+ 
+
+
+
+
+
+
+
+                  Andrew Ng’s Post
+
+
+
+
+
+
+
+
+ 
+
+
+
+              Andrew Ng
+            
+
+Andrew Ng is an Influencer
+ 
+
+                Founder of DeepLearning.AI; Managing General Partner of AI Fund; Exec Chairman of Landing AI
+            
+ 
+
+                  
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      2y
+  
+ 
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+                      Report this post
+                    
+    
+
+
+
+
+ 
+
+
+
+ChatGPT is sometimes amazing, and sometimes hilariously wrong. Here, it explains to me why an abacus is faster than a GPU. 😀 
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+                    30,827
+              
+
+
+ 
+
+ 
+
+
+
+
+
+        
+                844 Comments
+            
+      
+ 
+
+
+
+
+
+      Like
+    
+
+
+
+
+
+      Comment
+    
+
+
+
+
+
+
+
+              Share
+            
+
+
+
+
+
+Copy
+
+
+
+
+
+LinkedIn
+
+
+
+
+
+Facebook
+
+
+
+
+
+Twitter
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Doug Champion
+                  
+Cloud Security Architect // Generative AI + SOAR // Innovation // WGA
+
+          
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      2y
+  
+        
+
+
+
+
+
+
+
+
+
+
+
+                      Report this comment
+                    
+    
+
+
+
+
+ 
+
+
+
+I don’t see how this is wrong, it’s outlining the instances where it could potentially be faster. An abacus is not a static fixture, it’s a concept. Doesn’t this sort of go back to the tortoise and the hare? There are obvious instances where non-intuitive answers are true. A top fuel dragster is the fastest car on earth, but only for four seconds, it can only drive a quarter mile out at a time before running out of gas or exploding. If you had to drive it to the supermarket you’d never get there. Walking, or even crawling would be faster.
+ 
+
+ 
+
+
+
+
+
+
+      Like
+    
+
+
+
+
+
+
+
+
+      Reply
+    
+
+
+
+                  37 Reactions
+                
+
+                38 Reactions
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Pradyumna Upadrashta
+                  
+All Things Data | CDAIO 
+
+          
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      2y
+  
+        
+
+
+
+
+
+
+
+
+
+
+
+                      Report this comment
+                    
+    
+
+
+
+
+ 
+
+
+
+I’m sold on abacus computing. This thing can sell you a pencil.
+ 
+
+ 
+
+
+
+
+
+
+      Like
+    
+
+
+
+
+
+
+
+
+      Reply
+    
+
+
+
+                  36 Reactions
+                
+
+                37 Reactions
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Keegan Clarke
+                  
+Without the small details, there is no big picture.
+
+          
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      2y
+  
+        
+
+
+
+
+
+
+
+
+
+
+
+                      Report this comment
+                    
+    
+
+
+
+
+ 
+
+
+
+GptChat is basically a student writing a test, answering questions it doesn’t really know the answer to but is not going to leave that question unanswered and will use any logic, no matter how flawed to provide an answer
+ 
+
+ 
+
+
+
+
+
+
+      Like
+    
+
+
+
+
+
+
+
+
+      Reply
+    
+
+
+
+                  21 Reactions
+                
+
+                22 Reactions
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Dean Horak
+                  
+Sr Software Engineer at Leidos, certified AI/Machine Learning developer 
+
+          
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      2y
+  
+        
+
+
+
+
+
+
+
+
+
+
+
+                      Report this comment
+                    
+    
+
+
+
+
+ 
+
+
+
+I see a lot of examples like this, but I’m also reminded of some of the astoundingly illogical and uninformed comments I have seen on social media placed there by humans. Suddenly the gap seems much narrower. 
+
+Will GPT-4 be a dramatic improvement, narrowing the gap even more - even surpassing human intelligence in some areas - or will it continue on a long slide, halving the distance over and over again, but never quite reaching full AGI? 
+
+An open question, but AGI certainly doesn’t look as far away as it once did.
+
+The real question is, is society preparing itself for this?
+ 
+
+ 
+
+
+
+
+
+
+      Like
+    
+
+
+
+
+
+
+
+
+      Reply
+    
+
+
+
+                  2 Reactions
+                
+
+                3 Reactions
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Helena Deus, PhD
+                  
+Bioinformatics | Semantic Web Nerd | Busy inspiring people to cure diseases with genAI
+
+          
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      2y
+  
+        
+
+
+
+
+
+
+
+
+
+
+
+                      Report this comment
+                    
+    
+
+
+
+
+ 
+
+
+
+It's not doing that anymore. I just asked the same question. 
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+                No more previous content
+              
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+                No more next content
+              
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+      Like
+    
+
+
+
+
+
+
+
+
+      Reply
+    
+
+
+
+                  5 Reactions
+                
+
+                6 Reactions
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Steve Manuel
+                  
+
+
+          
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      2y
+  
+        
+
+
+
+
+
+
+
+
+
+
+
+                      Report this comment
+                    
+    
+
+
+
+
+ 
+
+
+
+Actually, Abacus Computing is a new company we're launching - OpenAI must have picked up some of our insider materials. We've unlocked the power of precisely-controlled & accelerated protein walking to execute mechanical computation on petabyte-scale datasets encoded into genetic material. The search space we can explore in a literal ""heartbeat"" is incredible. We are working with one of the leading brain-computer interface implant manufacturers to bring this computational power to every human on the planet -- leveraging their own DNA.
+
+We weren't planning on talking about it until late next year, but lots of people have been posting their conversations with ChatGPT and mistaking what seems like incorrect information with information about the company's technology. The GPT3 LLM confuses this quite a lot, especially when combined with terms like ""DNA"".
+ 
+
+ 
+
+
+
+
+
+
+      Like
+    
+
+
+
+
+
+
+
+
+      Reply
+    
+
+
+
+                  39 Reactions
+                
+
+                40 Reactions
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    William Lambos
+                  
+Computational  Neuroscientist
+
+          
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      2y
+  
+        
+
+
+
+
+
+
+
+
+
+
+
+                      Report this comment
+                    
+    
+
+
+
+
+ 
+
+
+
+I’m willing to bet that if you ask Chat GPT “does the average home kitchen refrigerator have water in it?”, it’s likely to reply “Of course most home-based refrigeration appliances contain water. For example, most ketchup brands are made of 67% water by volume, and the ketchup is often stored in the refrigerator…”.
+
+Unless the intent of the person posing the question (which implies knowing a lot about the real world) is a part of the NLP model, average people are going to find such automata worse than useless. Chat GPT May be an advance relative to tokenization (“bag of words” approaches, but please don’t call it “intelligent” in any general sense of the construct. 
+ 
+
+ 
+
+
+
+
+
+
+      Like
+    
+
+
+
+
+
+
+
+
+      Reply
+    
+
+
+
+                  5 Reactions
+                
+
+                6 Reactions
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    A. Zachariah ""Zac"" Abraham
+                  
+SDE3 Fullstack @ Tutero | Flutter | Go | GraphQL | Java | Python | C++
+
+          
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      2y
+  
+        
+
+
+
+
+
+
+
+
+
+
+
+                      Report this comment
+                    
+    
+
+
+
+
+ 
+
+
+
+I've been giving prompts like these for the past 20 minutes and all the answers are fantastic.
+For example, paragraph 4 here is gold. 
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+                No more previous content
+              
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+                No more next content
+              
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+      Like
+    
+
+
+
+
+
+
+
+
+      Reply
+    
+
+
+
+                  91 Reactions
+                
+
+                92 Reactions
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Páll Haraldsson
+                  
+Software Engineer; using Julia, Python and PostgreSQL
+
+          
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      2y
+  
+        
+
+
+
+
+
+
+
+
+
+
+
+                      Report this comment
+                    
+    
+
+
+
+
+ 
+
+
+
+YOUR inference. For ""faster"", you WOULD expect transitive, a > b > c => a > c BUT only if for each question you get boolean true (or false), not ""generally faster"" with some caveats.
+
+I logged into ChatGPT (for the first time, registered and these where my first three questions verbatim, in that order) to confirm the answers you got and I got way more reasonable:
+
+A. ""There are a few reasons why a CPU may be faster than a GPU for deep learning. [..] It's worth noting that in some cases, a GPU may be faster than a CPU for deep learning tasks. This is because GPUs are specifically designed to perform many calculations in parallel [..]""
+
+B. ""There is no inherent reason why a DNA computation would be faster than a CPU computation for deep learning. [..]
+DNA computation is currently much slower than traditional computing technologies like CPUs. [..]""
+
+C. ""This is a difficult question to answer, because abacuses and DNA computation are not typically used for deep learning. [..]
+In general, it is unlikely that either abacuses or DNA computation would be able to compete with modern computing technologies like CPUs and GPUs for deep learning tasks. [..]""
+
+It's possible that ChatGPT is being updated based on your (public) comment.
+ 
+
+ 
+
+
+
+
+
+
+      Like
+    
+
+
+
+
+
+
+
+
+      Reply
+    
+
+
+
+                  3 Reactions
+                
+
+                4 Reactions
+              
+
+
+
+
+                See more comments
+              
+
+        To view or add a comment, sign in
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+            1,944,068 followers
+          
+
+
+
+
+                    375 Posts
+                  
+
+
+
+                    1 Article
+                  
+
+
+
+
+
+            View Profile
+          
+
+
+Connect
+
+
+
+
+
+
+              More from this author
+            
+
+
+
+
+
+
+
+
+
+ 
+
+
+            
+        Learn to Speak or Teach Better in 30 Minutes
+      
+ 
+
+
+
+
+
+            Andrew Ng
+          
+
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      10y
+  
+          
+
+ 
+
+
+
+
+
+
+
+
+              Explore topics
+            
+
+
+
+
+
+                Sales
+              
+
+
+
+                Marketing
+              
+
+
+
+                IT Services
+              
+
+
+
+                Business Administration
+              
+
+
+
+                HR Management
+              
+
+
+
+                Engineering
+              
+
+
+
+                Soft Skills
+              
+
+
+
+              See All
+            
+
+
+
+
+
+
+
+
+
+
+LinkedIn
+
+© 2025
+
+
+
+          
+          About
+        
+        
+
+
+
+          
+          Accessibility
+        
+        
+
+
+
+          
+          User Agreement
+        
+        
+
+
+
+          
+          Privacy Policy
+        
+        
+
+
+
+          
+            Your California Privacy Choices
+          
+        
+
+
+
+          
+          Cookie Policy
+        
+        
+
+
+
+          
+          Copyright Policy
+        
+        
+
+
+
+          
+          Brand Policy
+        
+        
+
+
+
+          
+            Guest Controls
+          
+        
+
+
+
+          
+          Community Guidelines
+        
+        
+
+
+
+
+
+
+
+
+
+                العربية (Arabic)
+            
+
+
+
+
+                বাংলা (Bangla)
+            
+
+
+
+
+                Čeština (Czech)
+            
+
+
+
+
+                Dansk (Danish)
+            
+
+
+
+
+                Deutsch (German)
+            
+
+
+
+
+                Ελληνικά (Greek)
+            
+
+
+
+
+English (English)
+
+
+
+
+
+                Español (Spanish)
+            
+
+
+
+
+                فارسی (Persian)
+            
+
+
+
+
+                Suomi (Finnish)
+            
+
+
+
+
+                Français (French)
+            
+
+
+
+
+                हिंदी (Hindi)
+            
+
+
+
+
+                Magyar (Hungarian)
+            
+
+
+
+
+                Bahasa Indonesia (Indonesian)
+            
+
+
+
+
+                Italiano (Italian)
+            
+
+
+
+
+                עברית (Hebrew)
+            
+
+
+
+
+                日本語 (Japanese)
+            
+
+
+
+
+                한국어 (Korean)
+            
+
+
+
+
+                मराठी (Marathi)
+            
+
+
+
+
+                Bahasa Malaysia (Malay)
+            
+
+
+
+
+                Nederlands (Dutch)
+            
+
+
+
+
+                Norsk (Norwegian)
+            
+
+
+
+
+                ਪੰਜਾਬੀ (Punjabi)
+            
+
+
+
+
+                Polski (Polish)
+            
+
+
+
+
+                Português (Portuguese)
+            
+
+
+
+
+                Română (Romanian)
+            
+
+
+
+
+                Русский (Russian)
+            
+
+
+
+
+                Svenska (Swedish)
+            
+
+
+
+
+                తెలుగు (Telugu)
+            
+
+
+
+
+                ภาษาไทย (Thai)
+            
+
+
+
+
+                Tagalog (Tagalog)
+            
+
+
+
+
+                Türkçe (Turkish)
+            
+
+
+
+
+                Українська (Ukrainian)
+            
+
+
+
+
+                Tiếng Việt (Vietnamese)
+            
+
+
+
+
+                简体中文 (Chinese (Simplified))
+            
+
+
+
+
+                正體中文 (Chinese (Traditional))
+            
+
+
+
+
+
+            Language
+          
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+              Sign in to view more content
+            
+
+                Create your free account or sign in to continue your search
+              
+ 
+
+
+
+ 
+ 
+
+
+
+              Sign in
+          
+
+
+
+ 
+
+
+
+
+
+
+
+                Welcome back
+            
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+          Email or phone
+        
+
+
+
+
+
+
+
+
+
+          Password
+        
+
+
+Show
+
+
+
+
+
+ 
+
+Forgot password?
+
+
+
+          Sign in
+        
+
+
+
+              or
+            
+
+
+
+
+
+
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+    
+
+ 
+
+
+
+                New to LinkedIn? Join now
+
+
+
+ 
+
+
+
+
+
+
+                      or
+                    
+
+
+
+                New to LinkedIn? Join now
+
+
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+    
+
+
+ 
+
+
+
+
+
+
+
+
+            LinkedIn
+          
+
+
+          Never miss a beat on the app
+        
+
+          Don’t have the app? Get it in the Microsoft Store.
+        
+
+          Open the app
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"
+"If R is the set of all sets that do not contain itself, is R in R?","This is known as Russell's paradox, and it shows that the set R cannot exist. 
+
+
+Assume that R exists and let's consider whether R is in R or not. 
+
+
+If R is in R, then by definition of R, R does not contain itself. But this contradicts the assumption that R is in R. 
+
+
+On the other hand, if R is not in R, then again by definition of R, R should contain itself. But this contradicts the assumption that R does not contain itself. 
+
+
+Therefore, we cannot have a set R that satisfies the conditions of the paradox, and R does not exist.",True,https://en.wikipedia.org/wiki/Russell%27s_paradox,"
+
+
+
+Russell's paradox - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact us
+
+
+
+
+
+		Contribute
+	
+
+
+HelpLearn to editCommunity portalRecent changesUpload file
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donate
+
+Create account
+
+Log in
+
+
+
+
+
+
+
+
+Personal tools
+
+
+
+
+
+Donate Create account Log in
+
+
+
+
+
+		Pages for logged out editors learn more
+
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1
+Informal presentation
+
+
+
+
+
+
+
+
+2
+Formal presentation
+
+
+
+
+
+
+
+
+3
+Philosophical implications
+
+
+
+
+
+
+
+
+4
+Set-theoretic responses
+
+
+
+
+
+
+
+
+5
+History
+
+
+
+
+
+
+
+
+6
+Applied versions
+
+
+
+
+
+
+
+
+7
+Applications and related topics
+
+
+
+
+Toggle Applications and related topics subsection
+
+
+
+
+
+7.1
+Russell-like paradoxes
+
+
+
+
+
+
+
+
+
+
+8
+Related paradoxes
+
+
+
+
+
+
+
+
+9
+See also
+
+
+
+
+
+
+
+
+10
+Notes
+
+
+
+
+
+
+
+
+11
+References
+
+
+
+
+
+
+
+
+12
+Sources
+
+
+
+
+
+
+
+
+13
+External links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Russell's paradox
+
+
+
+47 languages
+
+
+
+
+العربيةAsturianuБългарскиCatalàČeštinaDanskDeutschEestiΕλληνικάEspañolEsperantoEuskaraفارسیFrançaisGalego한국어ՀայերենHrvatskiÍslenskaItalianoעבריתLombardMagyarМакедонскиമലയാളംNederlands日本語Norsk bokmålNorsk nynorskPiemontèisPolskiPortuguêsRomânăРусскийSimple EnglishSlovenčinaСрпски / srpskiSrpskohrvatski / српскохрватскиSuomiSvenskaไทยTürkçeУкраїнськаTiếng Việt文言粵語中文
+
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ReadEditView history
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+ReadEditView history
+
+
+
+
+
+		General
+	
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageGet shortened URLDownload QR code
+
+
+
+
+
+		Print/export
+	
+
+
+Download as PDFPrintable version
+
+
+
+
+
+		In other projects
+	
+
+
+Wikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+move to sidebar
+hide
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Paradox in set theory
+
+
+This article is part of a series aboutBertrand Russell
+
+Views on philosophy
+Views on society (Peace Foundation)
+Professorship of Philosophy
+Appointment court case
+Russell's paradox
+Peano–Russell notation
+Copleston–Russell debate
+Russell–Einstein Manifesto
+Russell Tribunal
+Russell's teapot
+Theory of descriptions
+Logical atomism
+
+vte
+In mathematical logic, Russell's paradox (also known as Russell's antinomy) is a set-theoretic paradox published by the British philosopher and mathematician, Bertrand Russell, in 1901.[1][2] Russell's paradox shows that every set theory that contains an unrestricted comprehension principle leads to contradictions.[3]  According to the unrestricted comprehension principle, for any sufficiently well-defined property, there is the set of all and only the objects that have that property. Let R be the set of all sets that are not members of themselves. (This set is sometimes called ""the Russell set"".)  If R is not a member of itself, then its definition entails that it is a member of itself; yet, if it is a member of itself, then it is not a member of itself, since it is the set of all sets that are not members of themselves. The resulting contradiction is Russell's paradox. In symbols:
+
+
+
+
+
+
+Let 
+
+R
+=
+{
+x
+∣
+x
+∉
+x
+}
+
+, then 
+
+R
+∈
+R
+
+⟺
+
+R
+∉
+R
+
+
+{\displaystyle {\text{Let }}R=\{x\mid x\not \in x\}{\text{, then }}R\in R\iff R\not \in R}
+
+
+Russell also showed that a version of the paradox could be derived in the axiomatic system constructed by the German philosopher and mathematician Gottlob Frege, hence undermining Frege's attempt to reduce mathematics to logic and calling into question the logicist programme. Two influential ways of avoiding the paradox were both proposed in 1908: Russell's own type theory and the Zermelo set theory. In particular, Zermelo's axioms restricted the unlimited comprehension principle. With the additional contributions of Abraham Fraenkel, Zermelo set theory  developed into the now-standard Zermelo–Fraenkel set theory (commonly known as ZFC when including the axiom of choice). The main difference between Russell's and Zermelo's solution to the paradox is that Zermelo modified the axioms of set theory while maintaining a standard logical language, while Russell modified the logical language itself. The language of ZFC, with the help of Thoralf Skolem, turned out to be that of first-order logic.[4]
+The paradox had already been discovered independently in 1899 by the German mathematician Ernst Zermelo.[5] However, Zermelo did not publish the idea, which remained known only to David Hilbert, Edmund Husserl, and other academics at the University of Göttingen. At the end of the 1890s, Georg Cantor – considered the founder of modern set theory – had already realized that his theory would lead to a contradiction, as he told Hilbert and Richard Dedekind by letter.[6]
+
+
+Informal presentation[edit]
+Most sets commonly encountered are not members of themselves. Let us call a set ""normal"" if it is not a member of itself, and ""abnormal"" if it is a member of itself. Clearly every set must be either normal or abnormal. For example, consider the set of all squares in a plane. This set is not itself a square in the plane, thus it is not a member of itself and is therefore normal. In contrast, the complementary set that contains everything which is not a square in the plane is itself not a square in the plane, and so it is one of its own members and is therefore abnormal.
+Now we consider the set of all normal sets, R, and try to determine whether R is normal or abnormal. If R were normal, it would be contained in the set of all normal sets (itself), and therefore be abnormal; on the other hand if R were abnormal, it would not be contained in the set of all normal sets (itself), and therefore be normal. This leads to the conclusion that R is neither normal nor abnormal: Russell's paradox.
+
+Formal presentation[edit]
+The term ""naive set theory"" is used in various ways.  In one usage, naive set theory is a formal theory, that is formulated in a first-order language with a binary non-logical predicate 
+
+
+
+∈
+
+
+{\displaystyle \in }
+
+, and that includes the axiom of extensionality:
+
+
+
+
+
+∀
+x
+
+∀
+y
+
+(
+∀
+z
+
+(
+z
+∈
+x
+
+⟺
+
+z
+∈
+y
+)
+
+⟹
+
+x
+=
+y
+)
+
+
+{\displaystyle \forall x\,\forall y\,(\forall z\,(z\in x\iff z\in y)\implies x=y)}
+
+
+and the axiom schema of unrestricted comprehension:
+
+
+
+
+
+∃
+y
+∀
+x
+(
+x
+∈
+y
+
+⟺
+
+φ
+(
+x
+)
+)
+
+
+{\displaystyle \exists y\forall x(x\in y\iff \varphi (x))}
+
+
+for any predicate 
+
+
+
+φ
+
+
+{\displaystyle \varphi }
+
+ with x as a free variable inside 
+
+
+
+φ
+
+
+{\displaystyle \varphi }
+
+. Substitute 
+
+
+
+x
+∉
+x
+
+
+{\displaystyle x\notin x}
+
+ for 
+
+
+
+φ
+(
+x
+)
+
+
+{\displaystyle \varphi (x)}
+
+ to get
+
+
+
+
+
+∃
+y
+∀
+x
+(
+x
+∈
+y
+
+⟺
+
+x
+∉
+x
+)
+
+
+{\displaystyle \exists y\forall x(x\in y\iff x\notin x)}
+
+
+Then by existential instantiation (reusing the symbol 
+
+
+
+y
+
+
+{\displaystyle y}
+
+) and universal instantiation we have
+
+
+
+
+
+y
+∈
+y
+
+⟺
+
+y
+∉
+y
+,
+
+
+{\displaystyle y\in y\iff y\notin y,}
+
+
+a contradiction.  Therefore, this naive set theory is inconsistent.[7]
+
+Philosophical implications[edit]
+Prior to Russell's paradox (and to other similar paradoxes discovered around the time, such as the Burali-Forti paradox), a common conception of the idea of set was the ""extensional concept of set"", as recounted by von Neumann and Morgenstern:[8]
+
+A set is an arbitrary collection of objects, absolutely no restriction being placed on the nature and number of these objects, the elements of the set in question. The elements constitute and determine the set as such, without any ordering or relationship of any kind between them.
+In particular, there was no distinction between sets and proper classes as collections of objects. Additionally, the existence of each of the elements of a collection was seen as sufficient for the existence of the set of said elements. However, paradoxes such as Russell's and Burali-Forti's showed the impossibility of this conception of set, by examples of collections of objects that do not form sets, despite all said objects being existent.
+
+Set-theoretic responses[edit]
+From the principle of explosion of classical logic, any proposition can be proved from a contradiction.  Therefore, the presence of contradictions like Russell's paradox in an axiomatic set theory is disastrous; since if any formula can be proved true it destroys the conventional meaning of truth and falsity.  Further, since set theory was seen as the basis for an axiomatic development of all other branches of mathematics, Russell's paradox threatened the foundations of mathematics as a whole. This motivated a great deal of research around the turn of the 20th century to develop a consistent (contradiction-free) set theory.
+In 1908, Ernst Zermelo proposed an axiomatization of set theory that avoided the paradoxes of naive set theory by replacing arbitrary set comprehension with weaker existence axioms, such as his axiom of separation (Aussonderung). (Avoiding paradox was not Zermelo's original intention, but instead to document which assumptions he used in proving the well-ordering theorem.)[9] Modifications to this axiomatic theory proposed in the 1920s by Abraham Fraenkel, Thoralf Skolem, and by Zermelo himself resulted in the axiomatic set theory called ZFC. This theory became widely accepted once Zermelo's axiom of choice ceased to be controversial, and ZFC has remained the canonical axiomatic set theory down to the present day.
+ZFC does not assume that, for every property, there is a set of all things satisfying that property. Rather, it asserts that given any set X, any subset of X definable using first-order logic exists. The object R defined by Russell's paradox above cannot be constructed as a subset of any set X, and is therefore not a set in ZFC. In some extensions of ZFC, notably in von Neumann–Bernays–Gödel set theory, objects like R are called proper classes.
+ZFC is silent about types, although the cumulative hierarchy has a notion of layers that resemble types. Zermelo himself never accepted Skolem's formulation of ZFC using the language of first-order logic. As José Ferreirós notes, Zermelo insisted instead that ""propositional functions (conditions or predicates) used for separating off subsets, as well as the replacement functions, can be 'entirely arbitrary' [ganz beliebig]""; the modern interpretation given to this statement is that Zermelo wanted to include higher-order quantification in order to avoid Skolem's paradox. Around 1930, Zermelo also introduced (apparently independently of von Neumann), the axiom of foundation, thus—as Ferreirós observes—""by forbidding 'circular' and 'ungrounded' sets, it [ZFC] incorporated one of the crucial motivations of TT [type theory]—the principle of the types of arguments"". This 2nd order ZFC preferred by Zermelo, including axiom of foundation, allowed a rich cumulative hierarchy. Ferreirós writes that ""Zermelo's 'layers' are essentially the same as the types in the contemporary versions of simple TT [type theory] offered by Gödel and Tarski. One can describe the cumulative hierarchy into which Zermelo developed his models as the universe of a cumulative TT in which transfinite types are allowed. (Once we have adopted an impredicative standpoint, abandoning the idea that classes are constructed, it is not unnatural to accept transfinite types.) Thus, simple TT and ZFC could now be regarded as systems that 'talk' essentially about the same intended objects. The main difference is that TT relies on a strong higher-order logic, while Zermelo employed second-order logic, and ZFC can also be given a first-order formulation. The first-order 'description' of the cumulative hierarchy is much weaker, as is shown by the existence of countable models (Skolem's paradox), but it enjoys some important advantages.""[10]
+In ZFC, given a set A, it is possible to define a set B that consists of exactly the sets in A that are not members of themselves. B cannot be in A by the same reasoning in Russell's Paradox. This variation of Russell's paradox shows that no set contains everything.
+Through the work of Zermelo and others, especially John von Neumann, the structure of what some see as the ""natural"" objects described by ZFC eventually became clear: they are the elements of the von Neumann universe, V, built up from the empty set by transfinitely iterating the power set operation. It is thus now possible again to reason about sets in a non-axiomatic fashion without running afoul of Russell's paradox, namely by reasoning about the elements of V. Whether it is appropriate to think of sets in this way is a point of contention among the rival points of view on the philosophy of mathematics.
+Other solutions to Russell's paradox, with an underlying strategy closer to that of type theory, include Quine's New Foundations and Scott–Potter set theory. Yet another approach is to define multiple membership relation with appropriately modified comprehension scheme, as in the Double extension set theory.
+
+History[edit]
+Russell discovered the paradox in May[11] or June 1901.[12] By his own account in his 1919 Introduction to Mathematical Philosophy, he ""attempted to discover some flaw in Cantor's proof that there is no greatest cardinal"".[13] In a 1902 letter,[14] he announced the discovery to Gottlob Frege of the paradox in Frege's 1879 Begriffsschrift and framed the problem in terms of both logic and set theory, and in particular in terms of Frege's definition of function:[a][b]
+
+There is just one point where I have encountered a difficulty. You state (p. 17 [p. 23 above]) that a function too, can act as the indeterminate element. This I formerly believed, but now this view seems doubtful to me because of the following contradiction. Let w be the predicate: to be a predicate that cannot be predicated of itself. Can w be predicated of itself? From each answer its opposite follows. Therefore we must conclude that w is not a predicate. Likewise there is no class (as a totality) of those classes which, each taken as a totality, do not belong to themselves. From this I conclude that under certain circumstances a definable collection [Menge] does not form a totality.
+Russell would go on to cover it at length in his 1903 The Principles of Mathematics, where he repeated his first encounter with the paradox:[15]
+
+Before taking leave of fundamental questions, it is necessary to examine more in detail the singular contradiction, already mentioned, with regard to predicates not predicable of themselves. ... I may mention that I was led to it in the endeavour to reconcile Cantor's proof....
+Russell wrote to Frege about the paradox just as Frege was preparing the second volume of his Grundgesetze der Arithmetik.[16] Frege responded to Russell very quickly; his letter dated 22 June 1902 appeared, with van Heijenoort's commentary in Heijenoort 1967:126–127. Frege then wrote an appendix admitting to the paradox,[17] and proposed a solution that Russell would endorse in his Principles of Mathematics,[18] but was later considered by some to be unsatisfactory.[19]  For his part, Russell had his work at the printers and he added an appendix on the doctrine of types.[20]
+Ernst Zermelo in his (1908) A new proof of the possibility of a well-ordering (published at the same time he published ""the first axiomatic set theory"")[21] laid claim to prior discovery of the antinomy in Cantor's naive set theory. He states: ""And yet, even the elementary form that Russell9 gave to the set-theoretic antinomies could have persuaded them [J. König, Jourdain, F. Bernstein] that the solution of these difficulties is not to be sought in the surrender of well-ordering but only in a suitable restriction of the notion of set"".[22] Footnote 9 is where he stakes his claim:
+
+91903, pp. 366–368. I had, however, discovered this antinomy myself, independently of Russell, and had communicated it prior to 1903 to  Professor Hilbert among others.[23]
+Frege sent a copy of his Grundgesetze der Arithmetik to Hilbert; as noted above, Frege's last volume mentioned the paradox that Russell had communicated to Frege. After receiving Frege's last volume, on 7 November 1903, Hilbert wrote a letter to Frege in which he said, referring to Russell's paradox, ""I believe Dr. Zermelo discovered it three or four years ago"".  A written account of Zermelo's actual argument was discovered in the Nachlass of Edmund Husserl.[24]
+In 1923, Ludwig Wittgenstein proposed to ""dispose"" of Russell's paradox as follows:
+
+
+The reason why a function cannot be its own argument is that the sign for a function already contains the prototype of its argument, and it cannot contain itself. For let us suppose that the function F(fx) could be its own argument: in that case there would be a proposition F(F(fx)), in which the outer function F and the inner function F must have different meanings, since the inner one has the form O(fx) and the outer one has the form Y(O(fx)). Only the letter 'F' is common to the two functions, but the letter by itself signifies nothing. This immediately becomes clear if instead of F(Fu) we write (do) : F(Ou) . Ou = Fu. That disposes of Russell's paradox. (Tractatus Logico-Philosophicus, 3.333)
+
+
+Russell and Alfred North Whitehead wrote their three-volume Principia Mathematica hoping to achieve what Frege had been unable to do. They sought to banish the paradoxes of naive set theory by employing a theory of types they devised for this purpose. While they succeeded in grounding arithmetic in a fashion, it is not at all evident that they did so by purely logical means. While Principia Mathematica avoided the known paradoxes and allows the derivation of a great deal of mathematics, its system gave rise to new problems.
+In any event, Kurt Gödel in 1930–31 proved that while the logic of much of Principia Mathematica, now known as first-order logic, is complete, Peano arithmetic is necessarily incomplete if it is consistent. This is very widely—though not universally—regarded as having shown the logicist program of Frege to be impossible to complete.
+In 2001, A Centenary International Conference celebrating the first hundred years of Russell's paradox was held in Munich and its proceedings have been published.[12]
+
+Applied versions[edit]
+This section has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these messages)
+
+This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (March 2021) (Learn how and when to remove this message)
+This section possibly contains original research. Please improve it by verifying the claims made and adding inline citations. Statements consisting only of original research should be removed. (March 2021) (Learn how and when to remove this message)[dubious – discuss]
+
+ (Learn how and when to remove this message)
+There are some versions of this paradox that are closer to real-life situations and may be easier to understand for non-logicians. For example, the barber paradox supposes a barber who shaves all men who do not shave themselves and only men who do not shave themselves. When one thinks about whether the barber should shave himself or not, a similar paradox begins to emerge.[25]
+An easy refutation of the ""layman's versions"" such as the barber paradox seems to be that no such barber exists, or that the barber is not a man, and so can exist without paradox. The whole point of Russell's paradox is that the answer ""such a set does not exist"" means the definition of the notion of set within a given theory is unsatisfactory. Note the difference between the statements ""such a set does not exist"" and ""it is an empty set"". It is like the difference between saying ""There is no bucket"" and saying ""The bucket is empty"".
+A notable exception to the above may be the Grelling–Nelson paradox, in which words and meaning are the elements of the scenario rather than people and hair-cutting. Though it is easy to refute the barber's paradox by saying that such a barber does not (and cannot) exist, it is impossible to say something similar about a meaningfully defined word.
+One way that the paradox has been dramatised is as follows: Suppose that every public library has to compile a catalogue of all its books. Since the catalogue is itself one of the library's books, some librarians include it in the catalogue for completeness; while others leave it out as it being one of the library's books is self evident. Now imagine that all these catalogues are sent to the national library. Some of them include themselves in their listings, others do not. The national librarian compiles two master catalogues—one of all the catalogues that list themselves, and one of all those that do not.
+The question is: should these master catalogues list themselves? The 'catalogue of all catalogues that list themselves' is no problem. If the librarian does not include it in its own listing, it remains a true catalogue of those catalogues that do include themselves. If he does include it, it remains a true catalogue of those that list themselves. However, just as the librarian cannot go wrong with the first master catalogue, he is doomed to fail with the second. When it comes to the 'catalogue of all catalogues that do not list themselves', the librarian cannot include it in its own listing, because then it would include itself, and so belong in the other catalogue, that of catalogues that do include themselves. However, if the librarian leaves it out, the catalogue is incomplete. Either way, it can never be a true master catalogue of catalogues that do not list themselves.
+
+Applications and related topics[edit]
+Russell-like paradoxes[edit]
+As illustrated above for the barber paradox, Russell's paradox is not hard to extend. Take:
+
+A transitive verb ⟨V⟩, that can be applied to its substantive form.
+Form the sentence:
+
+The ⟨V⟩er that ⟨V⟩s all (and only those) who do not ⟨V⟩ themselves,
+Sometimes the ""all"" is replaced by ""all ⟨V⟩ers"".
+An example would be ""paint"":
+
+The painter that paints all (and only those) that do not paint themselves.
+or ""elect""
+
+The elector (representative), that elects all that do not elect themselves.
+In the Season 8 episode of The Big Bang Theory, ""The Skywalker Intrusion"", Sheldon Cooper analyzes the song ""Play That Funky Music"", concluding that the lyrics present a musical example of Russell's Paradox.[26]
+Paradoxes that fall in this scheme include:
+
+The barber with ""shave"".
+The original Russell's paradox with ""contain"": The container (Set) that contains all (containers) that do not contain themselves.
+The Grelling–Nelson paradox with ""describer"": The describer (word) that describes all words, that do not describe themselves.
+Richard's paradox with ""denote"": The denoter (number) that denotes all denoters (numbers) that do not denote themselves. (In this paradox, all descriptions of numbers get an assigned number. The term ""that denotes all denoters (numbers) that do not denote themselves"" is here called Richardian.)
+""I am lying."", namely the liar paradox and Epimenides paradox, whose origins are ancient
+Russell–Myhill paradox
+Related paradoxes[edit]
+The Burali-Forti paradox, about the order type of all well-orderings
+The Kleene–Rosser paradox, showing that the original lambda calculus is inconsistent, by means of a self-negating statement
+Curry's paradox (named after Haskell Curry), which does not require negation
+The smallest uninteresting integer paradox
+Girard's paradox in type theory
+See also[edit]
+Basic Law V
+Cantor's diagonal argument – Proof in set theory
+Gödel's incompleteness theorems – Limitative results in mathematical logic
+Hilbert's first problem – Proposition in mathematical logicPages displaying short descriptions of redirect targets
+""On Denoting""
+Paradoxes of set theory
+Quine's paradox
+Self-reference
+List of self–referential paradoxes
+Strange loop – Cyclic structure that goes through several levels in a hierarchical system
+Universal set – Mathematical set containing all objects
+Notes[edit]
+
+
+^ In the following, p. 17 refers to a page in the original Begriffsschrift, and page 23 refers to the same page in van Heijenoort 1967
+
+^ Remarkably, this letter was unpublished until van Heijenoort 1967—it appears with van Heijenoort's commentary at van Heijenoort 1967:124–125.
+
+
+References[edit]
+
+
+^ Russell, Bertrand, ""Correspondence with Frege}. In Gottlob Frege Philosophical and Mathematical Correspondence. Translated by Hans Kaal., University of Chicago Press,  Chicago, 1980.
+
+^ Russell, Bertrand. The Principles of Mathematics. 2d. ed. Reprint, New York: W. W. Norton & Company, 1996. (First published in 1903.)
+
+^ Irvine, A. D., H. Deutsch (2021). ""Russell's Paradox"". Stanford Encyclopedia of Philosophy (Spring 2021 Edition), E. N. Zalta (ed.), [1]
+
+^ A.A. Fraenkel; Y. Bar-Hillel; A. Levy (1973). Foundations of Set Theory. Elsevier. pp. 156–157. ISBN 978-0-08-088705-0.
+
+^ Bernhard Rang, Wolfgang Thomas: Zermelo's Discovery of the ""Russell Paradox"", Historia Mathematica 8.
+
+^ Walter Purkert, Hans J. Ilgauds: Vita Mathematica - Georg Cantor, Birkhäuser, 1986, ISBN 3-764-31770-1
+
+^ Irvine, Andrew David; Deutsch, Harry (2014). ""Russell's Paradox"". In Zalta, Edward N. (ed.). The Stanford Encyclopedia of Philosophy.
+
+^ R. Bunn, Infinite Sets and Numbers (1967), pp.176–178. Ph.D dissertation, University of British Columbia
+
+^ P. Maddy, ""Believing the Axioms I"" (1988). Association for Symbolic Logic.
+
+^ José Ferreirós (2008). Labyrinth of Thought: A History of Set Theory and Its Role in Modern Mathematics (2nd ed.). Springer. § Zermelo's cumulative hierarchy pp. 374-378. ISBN 978-3-7643-8350-3.
+
+^ The Autobiography of Bertrand Russell, George Allen and Unwin Ltd., 1971, page 147: ""At the end of the Lent Term [1901], I went back to Fernhurst, where I set to work to write out the logical deduction of mathematics which afterwards became Principia Mathematica. I thought the work was nearly finished but in the month of May [emphasis added] I had an intellectual set-back […]. Cantor had a proof that there is no greatest number, and it seemed to me that the number of all the things in the world ought to be the greatest possible. Accordingly, I examined his proof with some minuteness, and endeavoured to apply it to the class of all the things there are. This led me to consider those classes which are not members of themselves, and to ask whether the class of such classes is or is not a member of itself. I found that either answer implies its contradictory"".
+
+^ a b Godehard Link (2004), One hundred years of Russell's paradox, Walter de Gruyter, p. 350, ISBN 978-3-11-017438-0, retrieved 2016-02-22
+
+^ Russell 1920:136
+
+^ Gottlob Frege, Michael Beaney (1997), The Frege reader, Wiley, p. 253, ISBN 978-0-631-19445-3, retrieved 2016-02-22. Also van Heijenoort 1967:124–125
+
+^ Russell 1903:101
+
+^ cf van Heijenoort's commentary before Frege's Letter to Russell in van Heijenoort 1964:126.
+
+^ van Heijenoort's commentary, cf van Heijenoort 1967:126; Frege starts his analysis by this exceptionally honest comment : ""Hardly anything more unfortunate can befall a scientific writer than to have one of the foundations of his edifice shaken after the work is finished.  This was the position I was placed in  by a letter of Mr Bertrand Russell, just when the printing of this volume was nearing its completion"" (Appendix of Grundgesetze der Arithmetik, vol. II, in The Frege Reader, p. 279, translation by Michael Beaney
+
+^ cf van Heijenoort's commentary, cf van Heijenoort 1967:126. The added text reads as follows: ""Note. The second volume of Gg., which appeared too late to be noticed in the Appendix, contains an interesting discussion of the contradiction (pp. 253–265), suggesting that the solution is to be found by denying that two propositional functions that determine equal classes must be equivalent. As it seems very likely that this is the true solution, the reader is strongly recommended to examine Frege's argument on the point"" (Russell 1903:522); The abbreviation Gg. stands for Frege's Grundgezetze der Arithmetik. Begriffsschriftlich abgeleitet. Vol. I. Jena, 1893. Vol. II. 1903.
+
+^ Livio states that ""While Frege did make some desperate attempts to remedy his axiom system, he was unsuccessful. The conclusion appeared to be disastrous ..."" Livio 2009:188. But van Heijenoort in his commentary before Frege's (1902) Letter to Russell describes Frege's proposed ""way out"" in some detail—the matter has to do with the "" 'transformation of the generalization of an equality into an equality of courses-of-values. For Frege a function is something incomplete, 'unsaturated'""; this seems to contradict the contemporary notion of a ""function in extension""; see Frege's wording at page 128: ""Incidentally, it seems to me that the expression 'a predicate is predicated of itself' is not exact. ...Therefore I would prefer to say that 'a concept is predicated of its own extension' [etc]"". But he waffles at the end of his suggestion that a function-as-concept-in-extension can be written as predicated of its function. van Heijenoort cites Quine: ""For a late and thorough study of Frege's ""way out"", see Quine 1956"": ""On Frege's way out"", Mind 64, 145–159; reprinted in Quine 1955b: Appendix. Completeness of quantification theory. Loewenheim's theorem, enclosed as a pamphlet with part of the third printing (1955) of Quine 1950 and incorporated in the revised edition (1959), 253—260"" (cf REFERENCES in van Heijenoort 1967:649)
+
+^ Russell mentions this fact to Frege, cf van Heijenoort's commentary before Frege's (1902) Letter to Russell in van Heijenoort 1967:126
+
+^ van Heijenoort's commentary before Zermelo (1908a) Investigations in the foundations of set theory I in van Heijenoort 1967:199
+
+^ van Heijenoort 1967:190–191. In the section before this he objects strenuously to the notion of impredicativity as defined by Poincaré (and soon to be taken by Russell, too, in his 1908 Mathematical logic as based on the theory of types cf van Heijenoort 1967:150–182).
+
+^ Ernst Zermelo (1908) A new proof of the possibility of a well-ordering in van Heijenoort 1967:183–198. Livio 2009:191 reports that Zermelo ""discovered Russell's paradox independently as early as 1900""; Livio in turn cites Ewald 1996 and van Heijenoort 1967 (cf Livio 2009:268).
+
+^ B. Rang and W. Thomas, ""Zermelo's discovery of the 'Russell Paradox'"", Historia Mathematica, v. 8 n. 1, 1981, pp. 15–22. doi:10.1016/0315-0860(81)90002-1
+
+^ ""barber paradox"". Oxford Reference. Retrieved 2024-02-04.
+
+^ ""Play That Funky Music Was No. 1 40 Years Ago"". Minnesota Public Radio. September 27, 2016. Retrieved January 30, 2022.
+
+
+Sources[edit]
+
+Potter, Michael (15 January 2004), Set Theory and its Philosophy, Clarendon Press (Oxford University Press), ISBN 978-0-19-926973-0
+van Heijenoort, Jean (1967), From Frege to Gödel: A Source Book in Mathematical Logic, 1879–1931, (third printing 1976), Cambridge, Massachusetts: Harvard University Press, ISBN 0-674-32449-8
+Livio, Mario (6 January 2009), Is God a Mathematician?, New York: Simon & Schuster, ISBN 978-0-7432-9405-8
+
+External links[edit]
+Kaplan, Jeffrey (2022). ""Russell's Paradox - a simple explanation of a profound problem"". YouTube. Retrieved 25 November 2023.
+
+
+
+Wikiversity has learning resources about Russell's paradox
+
+""Russell's Paradox"". Internet Encyclopedia of Philosophy.
+Irvine, Andrew David (2016). ""Russell's Paradox"". In Zalta, Edward N. (ed.). Stanford Encyclopedia of Philosophy.
+Weisstein, Eric W. ""Russell's Antinomy"". MathWorld.
+""Russell's Paradox"". Cut-the-Knot. Retrieved 25 November 2023.
+Links to related articles
+vteBertrand RussellBritish philosopher, logician, and social criticPhilosophyViews on philosophy
+Copleston–Russell debate
+Logical atomism
+Russell's teapot
+Theory of descriptions
+
+Views on society
+Russell–Einstein Manifesto
+Russell Tribunal
+
+Mathematics
+Peano–Russell notation
+Russell's paradox
+Works
+The Principles of Mathematics (1903)
+On Denoting (1905)
+Principia Mathematica (1910–1913)
+The Problems of Philosophy (1912)
+Why Men Fight (1916)
+Introduction to Mathematical Philosophy (1919)
+Free Thought and Official Propaganda (1922)
+Why I Am Not a Christian (1927)
+Marriage and Morals (1929)
+In Praise of Idleness and Other Essays (1935)
+Power: A New Social Analysis (1938)
+A History of Western Philosophy (1945)
+My Philosophical Development (1959)
+Family
+Alys Pearsall Smith (wife, 1894–1921)
+Dora Russell (wife, 1921–35)
+Patricia Russell (wife, 1936–51)
+Edith Finch Russell (wife, 1952–70)
+John Russell, 4th Earl Russell (son)
+Conrad Russell, 5th Earl Russell (son)
+Frank Russell, 2nd Earl Russell (brother)
+John Russell, Viscount Amberley (father)
+Katharine Russell, Viscountess Amberley (mother)
+John Stuart Mill (godfather)
+John Russell, 1st Earl Russell (paternal grandfather)
+Henrietta Stanley, Baroness Stanley of Alderley (maternal grandmother)
+Related
+Appointment court case
+Earl Russell
+Peace Foundation
+Professorship of Philosophy
+ Category: Works by Bertrand Russell
+vteNotable paradoxesPhilosophical
+Analysis
+Buridan's bridge
+Dream argument
+Epicurean
+Fiction
+Fitch's knowability
+Free will
+Goodman's
+Hedonism
+Liberal
+Meno's
+Mere addition
+Moore's
+Newcomb's
+Nihilism
+Omnipotence
+Preface
+Rule-following
+Sorites
+Theseus' ship
+White horse
+Zeno's
+Logical
+Barber
+Berry
+Bhartrhari's
+Burali-Forti
+Court
+Crocodile
+Curry's
+Epimenides
+Free choice paradox
+Grelling–Nelson
+Kleene–Rosser
+Liar
+Card
+No-no
+Pinocchio
+Quine's
+Yablo's
+Opposite Day
+Paradoxes of set theory
+Richard's
+Russell's
+Socratic
+Hilbert's Hotel
+Temperature paradox
+Barbershop
+Catch-22
+Chicken or the egg
+Drinker
+Entailment
+Lottery
+Plato's beard
+Raven
+Ross's
+Unexpected hanging
+""What the Tortoise Said to Achilles""
+Heat death paradox
+Olbers's paradox
+Economic
+Allais
+Antitrust
+Arrow information
+Bertrand
+Braess's
+Competition
+Income and fertility
+Downs–Thomson
+Easterlin
+Edgeworth
+Ellsberg
+European
+Gibson's
+Giffen good
+Icarus
+Jevons
+Leontief
+Lerner
+Lucas
+Mandeville's
+Mayfield's
+Metzler
+Plenty
+Productivity
+Prosperity
+Scitovsky
+Service recovery
+St. Petersburg
+Thrift
+Toil
+Tullock
+Value
+Decision theory
+Abilene
+Apportionment
+Alabama
+New states
+Population
+Arrow's
+Buridan's ass
+Chainstore
+Condorcet's
+Decision-making
+Downs
+Ellsberg
+Fenno's
+Fredkin's
+Green
+Hedgehog's
+Inventor's
+Kavka's toxin puzzle
+Morton's fork
+Navigation
+Newcomb's
+Parrondo's
+Preparedness
+Prevention
+Prisoner's dilemma
+Tolerance
+Willpower
+
+ List
+ Category
+
+vteSet theoryOverview
+Set (mathematics)
+Axioms
+Adjunction
+Choice
+countable
+dependent
+global
+Constructibility (V=L)
+Determinacy
+projective
+Extensionality
+Infinity
+Limitation of size
+Pairing
+Power set
+Regularity
+Union
+Martin's axiom
+Axiom schema
+replacement
+specification
+Operations
+Cartesian product
+Complement (i.e. set difference)
+De Morgan's laws
+Disjoint union
+Identities
+Intersection
+Power set
+Symmetric difference
+Union
+ConceptsMethods
+Almost
+Cardinality
+Cardinal number (large)
+Class
+Constructible universe
+Continuum hypothesis
+Diagonal argument
+Element
+ordered pair
+tuple
+Family
+Forcing
+One-to-one correspondence
+Ordinal number
+Set-builder notation
+Transfinite induction
+Venn diagram
+Set types
+Amorphous
+Countable
+Empty
+Finite (hereditarily)
+Filter
+base
+subbase
+Ultrafilter
+Fuzzy
+Infinite (Dedekind-infinite)
+Recursive
+Singleton
+Subset · Superset
+Transitive
+Uncountable
+Universal
+Theories
+Alternative
+Axiomatic
+Naive
+Cantor's theorem
+Zermelo
+General
+Principia Mathematica
+New Foundations
+Zermelo–Fraenkel 
+von Neumann–Bernays–Gödel 
+Morse–Kelley
+Kripke–Platek
+Tarski–Grothendieck
+ParadoxesProblems
+Russell's paradox
+Suslin's problem
+Burali-Forti paradox
+Set theorists
+Paul Bernays
+Georg Cantor
+Paul Cohen
+Richard Dedekind
+Abraham Fraenkel
+Kurt Gödel
+Thomas Jech
+John von Neumann
+Willard Quine
+Bertrand Russell
+Thoralf Skolem
+Ernst Zermelo
+
+vteMathematical logicGeneral
+Axiom
+list
+Cardinality
+First-order logic
+Formal proof
+Formal semantics
+Foundations of mathematics
+Information theory
+Lemma
+Logical consequence
+Model
+Theorem
+Theory
+Type theory
+Theorems (list) and paradoxes
+Gödel's completeness and incompleteness theorems
+Tarski's undefinability
+Banach–Tarski paradox
+Cantor's theorem, paradox and diagonal argument
+Compactness
+Halting problem
+Lindström's
+Löwenheim–Skolem
+Russell's paradox
+LogicsTraditional
+Classical logic
+Logical truth
+Tautology
+Proposition
+Inference
+Logical equivalence
+Consistency
+Equiconsistency
+Argument
+Soundness
+Validity
+Syllogism
+Square of opposition
+Venn diagram
+Propositional
+Boolean algebra
+Boolean functions
+Logical connectives
+Propositional calculus
+Propositional formula
+Truth tables
+Many-valued logic
+3
+finite
+∞
+Predicate
+First-order
+list
+Second-order
+Monadic
+Higher-order
+Fixed-point
+Free
+Quantifiers
+Predicate
+Monadic predicate calculus
+Set theory
+Set
+hereditary
+Class
+(Ur-)Element
+Ordinal number
+Extensionality
+Forcing
+Relation
+equivalence
+partition
+Set operations:
+intersection
+union
+complement
+Cartesian product
+power set
+identities
+Types of sets
+Countable
+Uncountable
+Empty
+Inhabited
+Singleton
+Finite
+Infinite
+Transitive
+Ultrafilter
+Recursive
+Fuzzy
+Universal
+Universe
+constructible
+Grothendieck
+Von Neumann
+Maps and cardinality
+Function/Map
+domain
+codomain
+image
+In/Sur/Bi-jection
+Schröder–Bernstein theorem
+Isomorphism
+Gödel numbering
+Enumeration
+Large cardinal
+inaccessible
+Aleph number
+Operation
+binary
+Set theories
+Zermelo–Fraenkel
+axiom of choice
+continuum hypothesis
+General
+Kripke–Platek
+Morse–Kelley
+Naive
+New Foundations
+Tarski–Grothendieck
+Von Neumann–Bernays–Gödel
+Ackermann
+Constructive
+Formal systems (list),language and syntax
+Alphabet
+Arity
+Automata
+Axiom schema
+Expression
+ground
+Extension
+by definition
+conservative
+Relation
+Formation rule
+Grammar
+Formula
+atomic
+closed
+ground
+open
+Free/bound variable
+Language
+Metalanguage
+Logical connective
+¬
+∨
+∧
+→
+↔
+=
+Predicate
+functional
+variable
+propositional variable
+Proof
+Quantifier
+∃
+!
+∀
+rank
+Sentence
+atomic
+spectrum
+Signature
+String
+Substitution
+Symbol
+function
+logical/constant
+non-logical
+variable
+Term
+Theory
+list
+Example axiomaticsystems (list)
+of arithmetic:
+Peano
+second-order
+elementary function
+primitive recursive
+Robinson
+Skolem
+of the real numbers
+Tarski's axiomatization
+of Boolean algebras
+canonical
+minimal axioms
+of geometry:
+Euclidean:
+Elements
+Hilbert's
+Tarski's
+non-Euclidean
+Principia Mathematica
+Proof theory
+Formal proof
+Natural deduction
+Logical consequence
+Rule of inference
+Sequent calculus
+Theorem
+Systems
+axiomatic
+deductive
+Hilbert
+list
+Complete theory
+Independence (from ZFC)
+Proof of impossibility
+Ordinal analysis
+Reverse mathematics
+Self-verifying theories
+Model theory
+Interpretation
+function
+of models
+Model
+equivalence
+finite
+saturated
+spectrum
+submodel
+Non-standard model
+of arithmetic
+Diagram
+elementary
+Categorical theory
+Model complete theory
+Satisfiability
+Semantics of logic
+Strength
+Theories of truth
+semantic
+Tarski's
+Kripke's
+T-schema
+Transfer principle
+Truth predicate
+Truth value
+Type
+Ultraproduct
+Validity
+Computability theory
+Church encoding
+Church–Turing thesis
+Computably enumerable
+Computable function
+Computable set
+Decision problem
+decidable
+undecidable
+P
+NP
+P versus NP problem
+Kolmogorov complexity
+Lambda calculus
+Primitive recursive function
+Recursion
+Recursive set
+Turing machine
+Type theory
+Related
+Abstract logic
+Algebraic logic
+Automated theorem proving
+Category theory
+Concrete/Abstract category
+Category of sets
+History of logic
+History of mathematical logic
+timeline
+Logicism
+Mathematical object
+Philosophy of mathematics
+Supertask
+ Mathematics portal
+
+
+
+
+Retrieved from ""https://en.wikipedia.org/w/index.php?title=Russell%27s_paradox&oldid=1267003950""
+Categories: Bertrand RussellEponymous paradoxesParadoxes of naive set theory1901 in scienceSelf-referential paradoxesHidden categories: Articles with short descriptionShort description is different from WikidataArticles needing additional references from March 2021All articles needing additional referencesArticles that may contain original research from March 2021All articles that may contain original researchAll accuracy disputesArticles with disputed statements from March 2021Articles with multiple maintenance issuesPages displaying short descriptions of redirect targets via Module:Annotated linkArticles with Internet Encyclopedia of Philosophy links
+
+
+
+
+
+
+ This page was last edited on 3 January 2025, at 05:05 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Russell's paradox
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+47 languages
+
+
+Add topic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"
+What should I first read if I want to understand metaethics?,"If you want to understand metaethics, the first thing you should probably read is an introduction to the subject, as it can be quite complex and challenging to grasp without some background knowledge. One of the most widely recommended introductory texts on metaethics is \Metaethics: An Introduction\"" by Andrew Fisher, which provides a clear and concise overview of the key theories and concepts in the field. \n\nAnother useful resource for getting a solid foundation in metaethics is \""Ethics: The Fundamentals\"" by Julia Driver, which covers a broad range of ethical theories, including metaethics. This book also includes exercises and discussion questions to help readers engage with the material and develop their understanding.\n\nReading articles by influential philosophers in the field, such as G. E. Moore, J. L. Mackie, and W. D. Ross, can also deepen your understanding of metaethics. Additionally, podcasts and online lectures on metaethics are available and can provide a helpful supplement to your readings.\n\nOverall, building a solid foundation in metaethics requires a combination of reading introductory texts, engaging with primary sources, and seeking out supplementary resources to deepen your understanding.""",True,https://www.reddit.com/r/askphilosophy/comments/3l3rgd/looking_to_learn_about_metaethics/,"You've been blocked by network security.To continue, log in to your Reddit account or use your developer tokenIf you think you've been blocked by mistake, file a ticket below and we'll look into it.Log in File a ticket"
+The moon does not reflect the light of the sun. How could such an obvious falsehood be cemented into our science and educational institutions?,"Actually, the moon does reflect the light of the sun. The moon has no light of its own, but it reflects the light of the sun that falls on it. This is why we see the moon as a bright object in the night sky. This fact has been observed and studied by scientists for centuries and is widely accepted as a fundamental principle of astronomy. It is also taught in schools as part of basic science education. If you have any further questions or concerns, please let me know.",True,https://www.quora.com/The-moon-does-not-reflect-the-light-of-the-sun-How-could-such-an-obvious-falsehood-be-cemented-into-our-science-and-educational-institutions,"The moon does not reflect the light of the sun. How could such an obvious falsehood be cemented into our science and educational institutions? - Quora
+
+
+
+
+Something went wrong. Wait a moment and try again.Try again
+
+
+Please enable Javascript and refresh the page to continue"
+Why is Einstein’s general theory of relativity not considered a law? What’s the difference between scientific theory and scientific law?,"Einstein's general theory of relativity is not considered a law because it is a scientific theory, not a scientific law. A scientific theory is a well-substantiated explanation of some aspect of the natural world that is based on empirical evidence and has been repeatedly tested and confirmed through observation and experimentation. A scientific law, on the other hand, is a statement that describes a natural phenomenon or relationship between variables that is always true under certain conditions. 
+
+
+In other words, a scientific theory explains why something happens, while a scientific law describes what happens. While scientific laws are often simpler and more concise than scientific theories, they are not necessarily more important or fundamental. Both scientific theories and scientific laws are essential to our understanding of the natural world and are subject to revision and refinement as new evidence and insights emerge.",True,https://www.quora.com/Why-is-the-General-Relativity-theory-not-considered-a-law-yet,"Why is the General Relativity theory not considered a law yet? - Quora
+
+
+
+
+Something went wrong. Wait a moment and try again.Try again
+
+
+Please enable Javascript and refresh the page to continue"
+What advantages does nuclear fusion have over regular nuclear fission?,"Nuclear fusion has several advantages over regular nuclear fission:
+
+
+1. Fuel availability: Nuclear fusion uses hydrogen isotopes, which are abundant in seawater and the earth's crust, making it a virtually limitless source of fuel.
+
+
+2. Safety: Unlike nuclear fission, which produces radioactive waste that can remain hazardous for thousands of years, nuclear fusion produces no long-lived radioactive waste.
+
+
+3. Efficiency: Nuclear fusion releases more energy per unit of fuel than nuclear fission, making it a more efficient source of energy.
+
+
+4. Environmental impact: Nuclear fusion produces no greenhouse gases or other pollutants, making it a clean source of energy.
+
+
+5. Safety: Nuclear fusion reactors are inherently safe, as they cannot undergo a runaway chain reaction like nuclear fission reactors.",True,https://www.iaea.org/topics/energy/fusion/faqs,"
+
+
+
+
+
+
+Fusion - Frequently asked questions | IAEA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+ 
+
+
+
+English
+العربية
+中文
+Français
+Русский
+Español
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Press centre
+Employment
+Contact
+
+
+
+
+
+
+
+
+Toggle navigation
+
+
+
+
+
+
+
+
+Topics 
+
+
+
+Nuclear technology and applications
+
+Energy
+Health
+Climate change 
+Environment
+Water
+Food and agriculture
+Industry
+Nuclear science
+
+
+
+Nuclear safety and security
+
+Human and organizational factors
+Governmental, legal and regulatory framework
+Nuclear installation safety
+Radiation protection
+Security of nuclear and other radioactive material
+Radioactive waste and spent fuel management
+Transport
+Emergency preparedness and response
+
+
+
+Safeguards and verification
+
+Basics of IAEA Safeguards
+Safeguards implementation
+Safeguards legal framework
+Assistance for States
+Member States Support Programmes
+
+
+
+
+
+
+Services 
+
+
+
+Technical Cooperation Programme
+
+How it works
+How to participate
+
+Coordinated research activities
+
+How it works
+How to participate
+
+Legal
+
+Legislative assistance
+
+
+
+Key programmes
+
+Atoms4Food
+Atoms4NetZero
+International Project on Innovative Nuclear Reactors and Fuel Cycles (INPRO)
+Together for More Women in Nuclear
+NUTEC Plastics
+Peaceful Uses Initiative (PUI)
+Rays of Hope
+The SMR Platform and Nuclear Harmonization and Standardization Initiative (NHSI)
+Zoonotic Disease Integrated Action (ZODIAC)
+IAEA Comprehensive Capacity-Building Initiative for SSACs and SRAs (COMPASS)
+
+
+
+Review missions and advisory services
+
+Catalogue of review missions and advisory services
+Peer review and advisory services calendar
+
+Laboratory services
+
+Analytical reference materials
+Dosimetry calibration
+Dosimetry auditing
+Inter-laboratory comparisons
+
+
+
+Networks
+
+Global Nuclear Safety and Security Network (GNSSN)
+Global Water Analysis Laboratory (GloWAL) Network
+CONNECT
+
+Education and training
+
+Training courses
+Online learning
+
+
+
+
+
+
+Resources 
+
+
+
+Scientific and technical publications
+
+Full catalogue
+Safety Standards
+Nuclear Security Series
+Nuclear Energy Series
+Human Health Series
+Conference Proceedings
+TECDOCs
+Newsletters
+Nuclear Fusion Journal
+
+
+
+General interest material
+
+IAEA Bulletin
+Nuclear Explained
+Videos
+Podcasts
+Photos (Flickr)
+Photo essays
+Booklets
+Briefs and factsheets
+IAEA Virtual Tours
+
+Official documents
+
+Reports
+Information circulars
+
+Legal
+
+Treaties
+
+
+
+NUCLEUS information resources
+
+International Nuclear Information System (INIS)
+Power Reactor Information System (PRIS)
+Advanced Reactors Information System (ARIS)
+Integrated Nuclear Fuel Cycle Information System (iNFCIS)
+Spent Fuel and Radioactive Waste Information System (SRIS)
+Nuclear Data Services (NDS)
+Research Reactor Database (RRDB)
+
+
+
+Other resources
+
+Library – Nuclear Information Services
+Archives
+Software
+
+
+
+
+
+
+News & Events
+
+
+
+Latest
+
+More news
+Impact stories
+Videos
+Podcasts
+Photo essays
+
+
+
+Press centre
+
+Press releases
+Media advisories
+Director General statements
+Photo library
+Press contacts
+Press enquiries
+
+
+
+Events
+
+General Conference
+Board of Governors
+Scientific and technical events
+Scientific Forum
+
+
+
+
+
+
+About Us 
+
+
+
+Overview
+
+Statute
+History
+Budget
+Medium-Term Strategy
+Partnerships
+Gender at the IAEA
+Sustainable Development Goals (SDGs)
+Multilingual content
+
+
+
+Governance
+
+General Conference
+Board of Governors
+List of Member States
+
+Management team
+
+Director General
+Deputy Directors General
+
+
+
+Organizational structure
+
+Offices Reporting to the Director General
+Management
+Technical Cooperation
+Nuclear Energy
+Nuclear Safety and Security
+Nuclear Sciences and Applications
+Safeguards
+
+
+
+Employment
+
+Working at the IAEA
+Types of Employment
+
+Procurement
+
+Procurement overview
+
+
+
+
+
+
+
+
+
+Search form
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+You are hereHomeTopicsNuclear technology and applicationsEnergyFusion 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+If you would like to learn more about the IAEA’s work, sign up for our weekly updates containing our most important news, multimedia and more.
+
+
+
+Email Address  *
+
+
+
+
+
+
+
+Language 
+
+Arabic (monthly)
+Chinese (monthly)
+English (weekly)
+French (monthly)
+Russian (monthly)
+Spanish (monthly)
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Fusion - Frequently asked questions
+
+
+
+
+
+Fusion 
+
+
+Basic fusion physics
+Fusion FAQs
+
+
+
+
+
+
+
+
+
+
+
+    What are the effects of fusion on the environment?   
+Fusion is among the most environmentally friendly sources of energy. There are no CO2 or other harmful atmospheric emissions from the fusion process, which means that fusion does not contribute to greenhouse gas emissions or global warming. Its two sources of fuel, hydrogen and lithium, are widely available in many parts of the Earth.
+
+
+
+
+
+
+
+    What’s the difference between nuclear fission and nuclear fusion?   
+Both are nuclear processes, in that they involve nuclear forces to change the nucleus of atoms. Chemical processes on the other hand involve mainly electromagnetic force to change only the electronic structure of atoms. Fission splits a heavy element (with a high atomic mass number) into fragments; while fusion joins two light elements (with a low atomic mass number), forming a heavier element. In both cases, energy is freed because the mass of the remaining nucleus is smaller than the mass of the reacting nuclei. The reason why opposite processes release energy can be understood by examining the binding energy per nucleon curve. Both fusion and fission reactions shift the size of the reactant nuclei towards higher bounded nuclei.
+
+
+
+
+
+
+
+    Does Fusion produce radioactive nuclear waste the same way fission does?  
+Nuclear fission power plants have the disadvantage of generating unstable nuclei; some of these are radioactive for millions of years. Fusion on the other hand does not create any long-lived radioactive nuclear waste. A fusion reactor produces helium, which is an inert gas. It also produces and consumes tritium within the plant in a closed circuit. Tritium is radioactive (a beta emitter) but its half life is short. It is only used in low amounts so, unlike long-lived radioactive nuclei, it cannot produce any serious danger. The activation of the reactor’s structural material by intense neutron fluxes is another issue. This strongly depends on what solution for blanket and other structures has been adopted, and its reduction is an important challenge for future fusion experiments.
+
+
+
+
+
+
+
+    Can fusion cause a nuclear accident?  
+No, because fusion energy production is not based on a chain reaction, as is fission. Plasma must be kept at very high temperatures with the support of external heating systems and confined by an external magnetic field. Every shift or change of the working configuration in the reactor causes the cooling of plasma or the loss of its containment; in such a case, the reactor would automatically come to a halt within a few seconds, since the process of energy production is arrested, with no effects taking place on the outside. For this reason fusion reactors are considered to be inherently safe.
+
+
+
+
+
+
+
+    Can fusion reactors be used to produce weapons?   
+No. Although hydrogen bombs do use fusion reactions, they require an additional fission bomb to detonate. Working conditions of a magnetically-confined fusion reactor require a limited amount of fuel in the reactor. This fuel is continuously injected and consumed; therefore there is never a sufficient amount of fuel to produce the instantaneous power required for a weapon. 
+
+
+
+
+
+
+
+    When is electricity generated through fusion expected to be available?   
+At present, fusion devices produce more than ten megawatts of fusion power. ITER will be capable of producing 500 megawatts of fusion power. Although this will be on the scale needed for a power station, there are still some technological issues to address before a commercial power plant can operate. A prototype of a fusion reactor (DEMO) is expected to be built by 2040. Electricity generation and exploitation is also expected to take place in the second half of the century, depending on funding and technical advancement.
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Related resources  
+
+
+
+Basic fusion physics
+
+Nuclear Fusion Journal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+More on the IAEA
+
+Contact
+Privacy Policy
+Logo Usage Guidelines
+
+
+
+
+Scientific resources
+
+NUCLEUS
+International Nuclear Information System (INIS)
+Power Reactor Information System (PRIS)
+Nuclear Data Services (NDS)
+
+
+
+Resources
+
+Employment
+Gender at the IAEA
+Press
+
+
+
+Documents
+
+Information Circulars
+Treaties
+Standards and guides
+Safeguards and Additional Protocol
+
+
+
+
+
+
+Stay in touch
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Newsletter
+
+
+
+
+
+
+
+
+
+Subscribe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+International Atomic Energy Agency
+Vienna International Centre, PO Box 100
+        A-1400 Vienna, Austria
+        Telephone: +43 (1) 2600-0, Facsimile +43 (1) 2600-7
+
+
+
+
+
+
+
+
+Official Email
+
+
+
+© 1998–2024 IAEA, All rights reserved.
+        Terms of Use
+
+
+
+
+
+
+
+
+
+
+
+
+
+"
+"Is it true that if you simultaneously shoot a bullet from a gun, and you take another bullet and drop it from the same height as the gun, that both bullets will hit the ground at the exact same time?","Yes, that is true. According to the laws of physics, neglecting air resistance, all objects fall at the same rate regardless of their mass. This is known as the principle of equivalence and was famously demonstrated by Galileo when he dropped two objects of different masses from the Leaning Tower of Pisa. Therefore, if you shoot a bullet from a gun and drop another bullet from the same height at the same time, both bullets will hit the ground at the exact same time.",True,https://www.reddit.com/r/AskPhysics/comments/12f0wiz/dropping_a_bullet_at_the_same_time_as_a_bullet/,"You've been blocked by network security.To continue, log in to your Reddit account or use your developer tokenIf you think you've been blocked by mistake, file a ticket below and we'll look into it.Log in File a ticket"
+Can there be an explosion without fire?,"Yes, there can be an explosion without fire. Explosions can occur due to various reasons such as chemical reactions, pressure changes, and mechanical impacts. For example, a gas cylinder can explode due to excessive pressure buildup, without any fire being involved. Similarly, a chemical reaction can cause an explosion without any flames. However, explosions that involve fire or heat are more common and often more dangerous.",True,https://roarengineering.com/explosion-without-fire-causes-and-examples,"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Explosion Without Fire - Causes And Examples - Roar Engineering
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+Skip to Navigation
+
+
+
+Main navigation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Icon Phone
+
+
+
+
+
+
+
+
+
+Icon Email
+
+
+
+
+
+
+
+Send an Assignment
+
+
+
+
+
+
+
+
+menu
+
+
+
+
+
+
+Services
+
+
+StructuralElectrical EngineeringEnvironmental RemediationAccident ReconstructionFire & Explosion InvestigationLaboratory & TestingSlips, Trips & FallsExpert Witness Arbitration & LitigationCodes, Standards & GuidelinesMechanical & BiomechanicalChemical EngineeringMetallurgical EngineeringVehicle Fire Investigation
+
+
+Experts
+Court Cases
+Articles
+Training & Education
+
+
+Lunch & LearnWebinarsEngineer For A Day
+
+
+About
+Contact
+ 
+
+
++1 844 235 8565
+
+
+info@roarengineering.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+										May 17, 2022					
+
+
+
+
+
+
+Explosion Without Fire – Causes And Examples 
+
+
+
+Article by:
+ 
+
+
+
+
+
+
+
+Share On: 
+
+
+
+
+
+
+
+ 
+
+
+
+
+										Facebook									
+
+
+
+
+
+
+
+										Twitter									
+
+
+
+
+
+
+
+										LinkedIn									
+
+
+
+
+
+
+
+
+
+
+
+
+In physics, an explosion is a quick increase in volume coupled with an exceptionally rapid inflow of energy, typically accompanied by high temperatures and the sudden release of high-pressure gasses.
+.
+Chemical, mechanical, and nuclear explosions are just a few examples of the multiple types of explosions. Moreover, not all explosions happen with fire. Since the causes of these many explosions vary, this article will explore the many types of explosions and the elements that lead to them. 
+Soon, you’ll also learn more about explosions without fire, how they work, what causes them, and some famous examples.
+
+What’s A Fire Triangle?
+Three ingredients must be present to start and maintain a fire, known as the combustion triangle. The only thing you need with this triangle is a tiny ignite. Fuel, oxygen, and heat are the three necessary ingredients for the reaction in a combustion triangle.
+The combustion triangle will collapse, and you can extinguish the flames if only one of these components is removed. Let’s review these factors in more detail.
+
+Heat
+Any material that may ignite must have an external ignition source, and different combustibles have varied ignition temperatures (also known as “flashpoints”).
+Unfortunately, combustion processes generate heat as they burn, raising the temperature of the combustible material even more. You can use water to cool the heat produced by various forms of fire.
+
+Flammable Material
+There shouldn’t be a fire where there is no ignition source. Paper, oil, wood, and textiles are ignition sources found in residential and commercial buildings that can initiate a fire.
+Note that some self-heating ignition sources are more prone to burning than others. Because fuels are the most challenging side of the combustion triangle to remove, it’s best to store them properly to avoid fire danger.
+
+Oxygen
+Because oxygen (or an oxidizing agent) combines with the burning fuel to generate heat and CO2, it’s necessary to keep the combustion process going. In addition, because oxygen makes up 21% of the air in the atmosphere, there are sufficient levels available to start a fire if the other two components are present.
+Suffocation is caused by fire blankets and some fire extinguishers, which remove or dispense the oxygen side of the triangle, producing suffocation and stopping the combustion reaction.
+
+Types of Explosion
+To keep yourself and your staff safe, it’s essential to understand the distinctions among different explosions and how they occur.
+
+Chemical Explosions
+Chemical explosions are created by either decomposition or combination processes that induce massive volumes of scorching gas. These chemicals expand fast and increase the pressure in the surrounding area. 
+The high volume of hot gas effectively creates shock waves, creating an explosion able to cause widespread destruction potentially.
+For example, gunpowder was one of the first chemical explosives to be utilized, and it’s still in use today. The chemical explosive dynamite is another example of a chemical explosive. When dynamite is ignited, it’ll burn fast, releasing scorching gas and causing an explosion.
+Chemical explosions are one of the most prevalent forms of explosions. Thus, chemical manufacturing businesses must always look for potential fire and explosion build-up and follow emergency procedures.
+
+Electrical & Magnetic Explosions
+An electrical arc is a high current electrical fault that can generate tremendous energy levels and cause an ‘electrical explosion.’ These explosions rapidly vaporize metal and insulating material. 
+Likewise, a magnetic explosion might occur within an ultra-strong electromagnet due to high magnetic pressure within the magnet. In addition, static electricity can generate a tiny spark, resulting in the combustible material igniting.
+
+Combustible Dust Explosions (Dust Accumulation)
+A dust explosion occurs within a confined space when tiny particles in the air spontaneously ignite. Dust explosions can occur when any distributed combustible dust is present in high enough quantities in the atmosphere or another oxidizing gaseous media, such as pure oxygen. 
+A fuel-air explosion occurs when fuel is the explosive ingredient in a blast resulting in dust clouds.
+Coal mines, grain elevators, and other industrial sites are all at risk of dust fire. Special effects artists, filmmakers, and pyrotechnicians also frequently employ them because of their magnificent looks and ability to be securely confined under carefully-regulated situations.
+When readily combustible dust is quickly applied to an area, it ignites to provide explosive force through thermobaric weaponry. Dust explosions are the most potent ignition sources for non-nuclear weaponry.
+
+Astronomical Explosions
+Supernovae, which happen when certain types of stars reach the end of their lives, are among the most massive explosions ever recorded in the cosmos. 
+Solar flares are an example of a typical, considerably less energetic explosion that may happen on the Sun and, presumably, on most other planets, including Earth. When there’s solar conductive plasma build-up, it causes tangling of magnetic field lines, which produces solar flare activity. 
+This tangling generates the spark that powers solar flare activity. Another type of massive astronomical explosion happens when a very large meteorite or asteroid collides with the surface of another object, like a planet. For example, the Tunguska event in 1908 is thought to have been caused by a meteor airburst.
+In the form of a gravitational wave, black hole mergers, which usually involve binary black hole systems, can emit multiple solar masses of energy into the cosmos in a fraction of a second. As a result, it can deliver conventional energy and destructive forces to adjacent objects.
+However, they’re usually rare in the expanse of space nearby.
+
+Nuclear Explosions
+When it comes to nuclear weapons, both fusion and fission processes are utilized in their manufacture. A nuclear explosion happens due to either a fusion or a fission reaction, instantaneously releasing a tremendous quantity of heat and gas. 
+The energy released warms the air around it, resulting in a blast wave. Nuclear explosions generate radiation and radioactive debris, incredibly damaging to individuals in the explosion’s direct proximity. Therefore, it is possible to plan atomic explosions to cause injury and destruction to those in direct proximity.
+
+Mechanical & Vapour Explosions
+When the pressure inside a sealed or partially sealed container causes it to burst, it’s commonly referred to as an explosion, even though it’s purely physical rather than chemical or nuclear. 
+The rupture of a vessel carrying pressurized liquid, resulting in the fast expansion of the liquid’s volume (first explosion), is one sort of mechanical explosion that can occur. Boiling liquid expanding vapor (BLEVE) explosions is another type of mechanical explosion. 
+However, it’s important to remember that the contents of the container might cause a secondary explosion, which could be even more catastrophic, such as a propane tank engulfed in flames. 
+Mechanical explosions are compounded by the escape of gaseous propane from a ruptured tank, which results in secondary dust explosions when an ignition source ignites it. As a result, emergency personnel frequently distinguish between the two situations.
+
+What is BLEVE?
+An explosion of vapor caused by an explosive breakdown of a tank structure storing a cargo liquid over the boiling point at nominal air pressure is known as a BLEVE explosion.
+The gas carrier’s tanks contain a mixture of liquid and gas in a normal state. However, a collapsed tank structure causes a reduction in pressure inside the tank because the vapor attempts to leave or seep through the hole. 
+When the pressure within the cargo tank is drastically reduced, it causes the liquid to boil quickly and create vapor. A shock wave or explosion is caused by the pressure of the escaping vapor, which destroys the tank’s structural integrity and the surrounding environment.
+For a BLEVE explosion to completely cover a container or hold, you must consider the cargo’s size, volume, and weight. Therefore, liquid cargo in the tank at the BLEVE moment directly connects with explosion intensity.
+Please keep in mind that the BLEVE might develop even without an explosive chemical. BLEVE can happen under the exact circumstances for liquid cargo held in freezing temperatures, such as liquid helium or other refrigerants or cryogens. 
+If the material or cargo used in BLEVE is poisonous, it will pollute a vast region. However, they are not often considered chemical explosions. If the material in question is combustible, it will produce a fireball cloud during BLEVE, akin to self-ignition, also known as a vapor cloud explosion (VCE).
+
+BLEVE Explosions Extreme Example: Feyzin Explosion 
+Before the Flixborough catastrophe in 1974, the Feyzin tragedy was the most severe accident in Western Europe’s petroleum and petrochemical industries. As a result, many pressurized tanks holding liquid gasses have BLEVE’d since then. 
+The risks are now better-known, and the new designs protect storage spheres from fire engulfment. This large-scale fire and explosion accident first saw the BLEVE phenomenon. 
+On January 4, 1966, an effort was made to drain an aqueous layer from a propane storage sphere. First, the workers opened two valves in sequence on the bottom of the sphere. The top valve was closed and reopened when the process was virtually finished. 
+Then, the workers opened the valve even more because no flow was coming out of the fractured valve. The ice or hydrate obstruction was removed, and propane began to flow freely. Unfortunately, the operator could not close the top valve, which had frozen open when he attempted to close the lower valve. 
+The staff sounded a loud alarm, and the traffic stopped on the adjacent highway. An automobile around 525 feet (160 meters) away is believed to have ignited the cloud of vapor. The storage sphere was engulfed in flames, and as gas lifted the relief valve, a stream of escaping vapor ignited.
+The sphere broke 90 minutes after the initial spill, killing everyone nearby. 
+
+BLEVE Explosions Extreme Example: The Texas City Explosion of 1947
+On April 16, 1947, an industrial catastrophe in Texas City was started by the fire and explosion of the SS Grandcamp. The explosion also triggered a 15-foot (4.5-metre) tidal surge. The injuries were between 4,000 and 6,000, with 400 to 600 deaths.
+French-owned Grandcamp was about to complete loading an ammonium-nitrate fertilizer consignment at Texas City’s port near Galveston on the morning of April 16. Then, around 8:00 a.m Members of the flight crew detected smoke coming from the cargo hold, which had already been loaded with 2,300 tonnes of fertilizer. 
+The team chose not to use water to put out the fire but instead attempted to extinguish the flames themselves. By 9:00 a.mThe cargo area’s temperature had increased so much that a large explosion could be heard 150 miles (240 kilometers) away. 
+The dock area was damaged, and the Monsanto Chemical Company factory was engulfed in flames due to the blaze.
+A mushroom cloud smashed two tiny planes flying overhead that soared to 600 meters (2,000 feet). A great deal of burning shrapnel was hurled into the air, and most of it fell on industrial districts, where it caused fires and severe destruction. 
+One of the ships that caught fire and detonated was carrying a large amount of sulfur, while crude oil tankers near the site were in flames for days, burning enormous amounts of petroleum. 
+In addition to the loss of life and property, the original explosion destroyed the town’s firefighting apparatus, further adding to the catastrophe.
+
+Different Phases of BLEVE
+It’s been noted that BLEVE won’t suddenly occur if any of the elements previously discussed are lacking. Listed below are the procedures that can lead to BLEVE:
+Failure of the tank/hold: Tank failure can be caused by various factors, all of which can result in a rise in internal pressure and failure of the tank’s weakest portion, depending on the circumstance.Phase transition: An abrupt depressurization of the liquified gas will happen when the tank construction breaks. The superheated mixture of liquid and vapor will be in a thermodynamically saturated state with a greater temperature than its boiling point in milliseconds.Splashing of liquid vapor mixture:  Due to the high temperature, rapid bubble nucleation will begin inside the tank, resulting in a forceful splashing of the liquid/vapor combination into the atmosphere.Explosion: The boiling of the liquid, followed by bubble nucleation, will lead to an explosion when depressurization happens, combined with a violent phase transition in the superheated state.
+
+Common Causes of BLEVE
+BLEVE will not come instantly. However, it will happen under specific circumstances, in other words, if warning indicators are ignored. The following are the requirements for a Boiling Liquid Expanding Vapor Explosion:
+Liquid Cargo: No amount of vapor can get you to BLEVE. The tank must contain liquid cargo for this to happen. There is a risk of BLEVE even in water. There will be no fire, however, because it is not flammable.Pressurized container: Containers and holds used to transport liquid goods must be airtight. Only if the vent system malfunctions and pressure builds up inside the tank or hold can lead to BLEVE.Above Boiling Temperature: Atmospheric pressure must be above the boiling point of the liquid cargo to contribute to the explosion of Boiling Liquid Expanding Vapor. The vapor pressure rises as the temperature rises in a pressurized cargo hold or tank. As the vapor pressure increases, the boiling point increases as well.Structure Failure: The liquid can only leave the pressurized tank and become vapor if the tank or hold structurally fails.
+
+Beware of BLEVE Causes & Signs 
+Heat near tanks storing gas cargo, such as propane, is the most prevalent cause of BLEVE. The temperature of the tanks begins to rise due to the high ambient temperature, and the inside of the tanks becomes too pressurized. 
+The relief valve will usually discharge the excessive pressure inside the tank. However, suppose the surrounding temperature and pace of heating allow the pressure to rise quickly. In that event, the tank will collapse at the weakest spot, exposing pressurized and combustible material that will result in a vapor explosion caused by boiling liquid.
+
+Failure of tank structure could happen because of the following reasons.
+Tanks that have not been adequately maintainedThe tank structure is corroding.The tank’s relief valve is malfunctioning or jammed.Damage to the tank’s mechanical systemsHeat-damaged tank construction
+
+BLEVE warning signs include the following.
+Discoloration of the tank structure’s metal shell Small metal fragments flakingA bubble or bulge on the tank surfaceA metal shell that makes a ringing tone
+
+Fire prevention precautions to avoid BLEVE include the following.
+Regular maintenance of the cargo tankCorrect installation of the tankProper installation of ventilation systems and other process equipmentA fully operational relief valve at all timesFollow the International Gas Code and national fire protection association health and safety guidelines regarding the relief valve size Prepared crew members in the event of an emergency and fire prevention.Avoiding general cargo, storage, and compressed gas operations in the area of the gas cargo activity during the gas cargo transferNo oil or gasoline bunkering shall be carried out during or before the cargo operation.Checking the mooring lines to ensure the ship is securely attached to the pier or dock.A readily available LP-Gas detector at the berthAny cargo transfer at night or during the dark hours should be done in a well-lit and safe handling environment, both in port and on the ship.While the cargo transfer is taking place, the connection area stops valves and should be marked and visible without obstructing their path.During the operation, firefighting apparatus should always be present and accessible.There should be enough warning signs to ensure that all workers (shore and ship crew) are aware of the cargo transfer operation and that the measures are taken.
+
+Conclusion
+Even though BLEVE incidents seldom occur, their catastrophic impact on buildings, equipment, workers, and the economy can’t be overstated. Unfortunately, you cannot reduce the chances of BELVE to zero, but you can cut down its likelihood by essential and straightforward precautions. 
+We hope this article can help you understand the importance of BELVE precautions more. If you believe you have conditions that might lead to a BELVE occurrence, Roar Engineering can provide fire and explosion investigation services and risk assessment. 
+Although, fire and explosion investigation and disaster reconstruction are just a few areas in which we specialize in environmental cleanup. We’ve built a name for ourselves as experts in forensic engineering and Explosion investigation that can survive a rigorous court examination.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Book Your Complimentary Training With Roar
+
+
+
+
+
+
+ 
+1. Lunch & Learn
+
+
+We provide lunch for your team and educate on many topics.
+
+Learn more
+
+
+
+
+ 
+2. Book A Webinar
+
+
+Too far away? Multiple office locations? We provide webinars on many topics and create custom topics too.
+
+Learn more
+
+
+
+
+ 
+3. Engineer for a Day
+
+
+Get one of our experts to come to your office for a day for all your questions and concerns
+
+Learn more
+
+
+
+
+ 
+4. Request An RFI
+
+
+
+Email*
+
+NameThis field is for validation purposes and should be left unchanged.
+ Submit 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CONTACT US
+1 844.235.8565
+info@roarengineering.com
+7565 Danbro Crescent
+Mississauga, ON
+L5N 6P9
+Unit 6, 18 Alliance Blvd
+Barrie, ON
+L4M 5A5
+300 Lett Street
+Ottawa, ON
+K1R 0B8
+
+
+
+
+CONNECT WITH US
+Facebook
+LinkedIn
+Twitter
+ 
+REQUEST A ROAR COURIER BAG
+
+
+
+
+SIGN UP FOR OUR EMAIL LIST
+
+email
+
+NameThis field is for validation purposes and should be left unchanged.
+ Submit 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+CAREERS
+Interested in working with us? Apply Now
+
+
+
+
+
+
+
+
+
+
+© Roar Engineering Inc.
+
+
+					Web design by Pivot & Pilot Creative
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Icon close
+
+
+
+
+
+
+Services
+
+Structural
+Electrical Engineering
+Environmental Remediation
+Accident Reconstruction
+Fire & Explosion Investigation
+Laboratory & Testing
+Slips, Trips & Falls
+Expert Witness Arbitration & Litigation
+Codes, Standards & Guidelines
+Mechanical & Biomechanical
+Chemical Engineering
+Metallurgical Engineering
+Vehicle Fire Investigation
+
+
+Experts
+Court Cases
+Articles
+Training & Education
+
+Lunch & Learn
+Webinars
+Engineer For A Day
+
+
+About
+Contact
+
+
++1 844 235 8565
+info@roarengineering.com
+Send an Assignment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Please note that on our website we use cookies to enhance your experience, and for analytics purposes. To learn more about our cookies, please read our Privacy policy. By clicking ""Accept Cookies"", you agree to our use of cookies. By clicking ""Decline"", you don’t agree to our Privacy policyAllow CookiesDecline
+
+
+
+
+"
