@@ -5,20 +5,15 @@ Repository of the Master's Thesis in Data Science at University of Milano-Bicocc
 ## ABSTRACT
 
 In recent years, the emergence of Large Language Models (LLMs) has revolutionized the
-field of Natural Language Processing (NLP), driving significant advancements in sev-
-eral applications, including text generation, machine translation, and conversational AI.
+field of Natural Language Processing (NLP), driving significant advancements in several applications, including text generation, machine translation, and conversational AI.
 Despite their remarkable capabilities, these models exhibit a critical limitation: their
-tendency to generate inaccurate or misleading content, a phenomenon known as hallu-
-cination. Hallucinations in LLMs can be categorized into two primary types: factuality
+tendency to generate inaccurate or misleading content, a phenomenon known as hallucination. Hallucinations in LLMs can be categorized into two primary types: factuality
 hallucinations, where the model generates information that is contradictory, unverifiable,
-or misaligned with real-world knowledge, and faithfulness hallucinations, when the gener-
-ated content is inconsistent with the input or the context provided by the user.
+or misaligned with real-world knowledge, and faithfulness hallucinations, when the generated content is inconsistent with the input or the context provided by the user.
 
-This study aims to conduct an in-depth investigation into the phenomenon of hallu-
-cinations in LLMs, examining their types, underlying causes, and the principal methods
+This study aims to conduct an in-depth investigation into the phenomenon of hallucinations in LLMs, examining their types, underlying causes, and the principal methods
 developed for their detection, with a focus on factuality hallucinations. To provide a
-comprehensive overview, this work presents a systematic review of the existing litera-
-ture, categorizing hallucination detection strategies into three main approaches: methods
+comprehensive overview, this work presents a systematic review of the existing literature, categorizing hallucination detection strategies into three main approaches: methods
 based on knowledge retrieval from external sources, uncertainty estimation approaches
 through the analysis of the internal states of the LLM, and zero-resources and black-box
 approaches, based on strategies to assess the consistency of the generated output. Beyond
@@ -27,13 +22,10 @@ hallucination detection methods and assessing their effectiveness on different b
 datasets, highlighting the strengths and limitations of each approach.
 
 The findings show that no approach consistently outperforms the others across all
-contexts. Supervised classification methods demonstrate superior performance in assess-
-ing the factual accuracy of long texts, yet their effectiveness diminishes when applied
-to shorter texts. Conversely, zero-resources and black-box approaches exhibit more sta-
-ble and adaptable performance across several contexts. Furthermore, the integration of
+contexts. Supervised classification methods demonstrate superior performance in assessing the factual accuracy of long texts, yet their effectiveness diminishes when applied
+to shorter texts. Conversely, zero-resources and black-box approaches exhibit more stable and adaptable performance across several contexts. Furthermore, the integration of
 external knowledge within the approaches generally leads to an overall improvement in
-performance. However, the observed performance gains are not always substantial. No-
-tably, further refining the knowledge retrieval process has the potential to yield even more
+performance. However, the observed performance gains are not always substantial. Notably, further refining the knowledge retrieval process has the potential to yield even more
 significant improvements, emphasizing the importance of enhancing retrieval mechanisms
 to optimize hallucination detection strategies.
 
