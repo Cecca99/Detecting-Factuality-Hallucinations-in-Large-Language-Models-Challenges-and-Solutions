@@ -1,0 +1,2 @@
+classification type,accuracy,precision,recall,macro_f1
+roberta-base,0.6106194690265486,0.6739130434782609,0.5166666666666667,0.5849056603773585

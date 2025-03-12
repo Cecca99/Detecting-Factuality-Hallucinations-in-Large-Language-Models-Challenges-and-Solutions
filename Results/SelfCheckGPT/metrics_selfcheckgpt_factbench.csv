@@ -1,0 +1,4 @@
+classification type,best_threshold,best_accuracy
+llm_prompt,0.23115577889447236,0.57
+nli,0.6429219466432123,0.64
+bertscore,0.6054938486473045,0.61

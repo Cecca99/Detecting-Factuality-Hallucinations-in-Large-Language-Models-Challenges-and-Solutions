@@ -1,0 +1,2 @@
+classification type,accuracy,precision,recall,macro_f1
+bert-base,0.584070796460177,0.5730337078651685,0.85,0.6845637583892618

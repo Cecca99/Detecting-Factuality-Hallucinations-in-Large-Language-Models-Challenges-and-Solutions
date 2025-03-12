@@ -1,0 +1,4 @@
+classification type,accuracy
+one shot,0.63
+five shot,0.59
+ten shot,0.62
