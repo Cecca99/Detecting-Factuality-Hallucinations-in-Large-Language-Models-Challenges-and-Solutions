@@ -47,9 +47,16 @@ transparency and reliability of AI models.
 The repository is structured in the following way:
 
 - **Results**: Results obtained during the sperimental analysis. It is composed of:
-  - Sottoelemento 1.1
-  - Sottoelemento 1.2
-    - Sotto-sottoelemento 1.2.1
+  - *Few Shot:* Results obtained using few-shot prompting (both with and without knowledge integrated)
+  - *Hidden States:* Results obtained by extracting the internal states of the LLM and classifying them.
+  - *SelfCheckGPT:* Results obtained using SelfCheckGPT (BERTScore, NLI, and LLM prompt, both with and without knowledge)
+  - *Text Classification:* Results obtained through text classification.
 - **Source Code**: Code developed during the work. It is composed of:
+- *Few Shot:* Code developed for the few-shot prompting approaches.
+- *SelfCheckGPT:* Code developed to use SelfCheckGPT and its variants.
+- *Text Classification:* Code developed for text classification using BERT, GPT-2 and RoBERTa. It is divided in only answer, where it was provided only the answer, and query+answer where it was provided both the query and the answer.
+- *Uncertainty Estimation:* Code developed for the classification of internal states of the LLM.
+- *Utils:* Code developed for knowledge retrieval and extraction of LLM internal states.
 - **data**: Data used for the experiments. It contains *FactBench* dataset and all the dataset with the retrieved knowledge.
+- **embeddings_saplma/felm**: Example of the internal states extracted from the last layer of the LLM for FELM dataset (internal states extracted from the other layers and for the other datasets were not loaded due to space constraints).
 
