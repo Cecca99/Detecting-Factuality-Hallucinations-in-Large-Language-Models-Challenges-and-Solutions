@@ -1,6 +1,6 @@
-# Detecting-Factuality-Hallucinations-in-Large-Language-Models-Challenges-and-Solutions
+# Detecting Factuality Hallucinations in Large Language Models Challenges and Solutions
 
-Code developed for Master's Thesis in Data Science at University of Milano-Bicocca.
+Repository of the Master's Thesis in Data Science at University of Milano-Bicocca by Cristian Ceccarelli. 
 
 ## ABSTRACT
 
@@ -45,3 +45,11 @@ transparency and reliability of AI models.
 
 ## Structure of the Repository
 The repository is structured in the following way:
+
+- **Results**: Results obtained during the sperimental analysis. It is composed of:
+  - Sottoelemento 1.1
+  - Sottoelemento 1.2
+    - Sotto-sottoelemento 1.2.1
+- **Source Code**: Code developed during the work. It is composed of:
+- **data**: Data used for the experiments. It contains *FactBench* dataset and all the dataset with the retrieved knowledge.
+
